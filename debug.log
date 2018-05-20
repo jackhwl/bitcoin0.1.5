@@ -1,0 +1,1254 @@
+sending: version      (46 bytes)  
+5/20/2018 16:52:58  RandAddSeed() got 91880 bytes of performance data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bitcoin version 105, Windows version 0a280105
+Loading addresses...
+dbenv.open strAppDir=C:\Documents and Settings\Jack\Application Data\Bitcoin
+mapAddresses:
+-----
+ addresses                5850782
+Loading block index...
+LoadBlockIndex(): hashBestChain=000000000019d6  height=0
+ block index                92489
+Loading wallet...
+fGenerateBitcoins = 0
+nTransactionFee = 0
+addrIncoming = 70.52.162.61:8333
+ wallet                    294864
+Done loading
+mapBlockIndex.size() = 1
+nBestHeight = 0
+mapKeys.size() = 1
+mapPubKeys.size() = 1
+mapWallet.size() = 0
+mapAddressBook.size() = 1
+addrLocalHost = 192.168.1.176:8333
+bound to addrLocalHost = 192.168.1.176:8333
+
+ERROR: GetMyExternalIP() : connection to 70.86.96.218:80 failed
+
+ERROR: GetMyExternalIP() : connection to 208.78.68.70:80 failed
+
+IRC socket closed
+GetMyExternalIP() received [70.52.162.76] 70.52.162.76:8333
+RefreshListCtrl starting
+RefreshListCtrl done
+IRC :hitchcock.freenode.net NOTICE * :*** Looking up your hostname...
+ThreadOpenConnections started
+ThreadMessageHandler started
+ThreadSocketHandler started
+IRC :hitchcock.freenode.net NOTICE * :*** Checking Ident
+IRC :hitchcock.freenode.net NOTICE * :*** Found your hostname
+SENDING: NICK u4wmZ18CaoSDjFe
+SENDING: USER u4wmZ18CaoSDjFe 8 * : u4wmZ18CaoSDjFe
+IRC :hitchcock.freenode.net NOTICE * :*** No Ident response
+IRC :hitchcock.freenode.net 001 u4wmZ18CaoSDjFe :Welcome to the freenode Internet Relay Chat Network u4wmZ18CaoSDjFe
+IRC :hitchcock.freenode.net 002 u4wmZ18CaoSDjFe :Your host is hitchcock.freenode.net[130.185.232.126/6667], running version ircd-seven-1.1.5
+IRC :hitchcock.freenode.net 003 u4wmZ18CaoSDjFe :This server was created Tue Dec 12 2017 at 21:10:35 UTC
+IRC :hitchcock.freenode.net 004 u4wmZ18CaoSDjFe hitchcock.freenode.net ircd-seven-1.1.5 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+SENDING: JOIN #bitcoin
+SENDING: WHO #bitcoin
+IRC :hitchcock.freenode.net 005 u4wmZ18CaoSDjFe CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+IRC :hitchcock.freenode.net 005 u4wmZ18CaoSDjFe CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+IRC :hitchcock.freenode.net 005 u4wmZ18CaoSDjFe EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+IRC :hitchcock.freenode.net 251 u4wmZ18CaoSDjFe :There are 120 users and 86409 invisible on 34 servers
+IRC :hitchcock.freenode.net 252 u4wmZ18CaoSDjFe 33 :IRC Operators online
+IRC :hitchcock.freenode.net 253 u4wmZ18CaoSDjFe 100 :unknown connection(s)
+IRC :hitchcock.freenode.net 254 u4wmZ18CaoSDjFe 52797 :channels formed
+IRC :hitchcock.freenode.net 255 u4wmZ18CaoSDjFe :I have 4570 clients and 1 servers
+IRC :hitchcock.freenode.net 265 u4wmZ18CaoSDjFe 4570 5989 :Current local users 4570, max 5989
+IRC :hitchcock.freenode.net 266 u4wmZ18CaoSDjFe 86529 96964 :Current global users 86529, max 96964
+IRC :hitchcock.freenode.net 250 u4wmZ18CaoSDjFe :Highest connection count: 5990 (5989 clients) (1588658 connections received)
+IRC :hitchcock.freenode.net 375 u4wmZ18CaoSDjFe :- hitchcock.freenode.net Message of the Day - 
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Welcome to hitchcock.freenode.net in Sofia, Bulgaria, EU, kindly sponsored by
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Neterra Communications (www.neterra.net)
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- HITCHCOCK, SIR ALFRED [1899 - 1980] Born in Essex,
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- England, Sir Alfred Hitchcock was a noted film director
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- and producer. Over a long career he pioneered many modern
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- techniques in film-making, made more than 50 feature films,
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- and influenced many present-day directors and producers.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Welcome to freenode - supporting the free and open source
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- software communities since 1998.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- By connecting to freenode you indicate that you have read and
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- accept our policies and guidelines as set out on https://freenode.net
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- In the event that you observe behaviour that contravenes our policies,
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- please notify a volunteer staff member via private message, or send us an
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- e-mail to complaints@freenode.net -- we will do our best to address the
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- situation within a reasonable period of time, and we may request further
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- information or, as appropriate, involve other parties such as channel operators 
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Group Contacts representing an on-topic group.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- freenode runs an open proxy scanner.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- If you are looking for assistance, you will be able to find a list of
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- volunteer staff using the '/who freenode/staff/*' command, and you may
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- message any of us at any time. Please note that freenode predominantly
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- provides assistance via private message, and while we have a network
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- channel the primary venue for support requests is via private message to
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- a member of the volunteer staff team.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- From time to time, volunteer staff may send server-wide notices relating to
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- the project, or the communities that we host. The majority of such notices
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- do not miss them. Important messages relating to the freenode project, including
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- notices of upcoming maintenance and other scheduled downtime will be issued as
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- global notices.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Representing an on-topic project? Don't forget to register, more information
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- can be found on the https://freenode.net website under "Group Registration".
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- freenode organises an annual conference, and we would like to extend our
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- thanks to the attendees, exhibitors and speakers who made freenode #live 2017
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- possible. And of course, our generous sponsors: Bytemark, Canonical (Ubuntu),
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Falanx Cyber Security, Private Internet Access and Yubico for footing the bill.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Thank you also to our server sponsors for the sustained support in keeping the
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- network going for close to two decades.
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- freenode #live returns to Bristol, UK on November 3rd-4th 2018. Our Call for
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Proposals is live at https://freenode.live and open until July 31, 2018. If 
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- you are interested in sponsoring this event, please send an e-mail to
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- sponsor@freenode.live
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :- Thank you for using freenode!
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 372 u4wmZ18CaoSDjFe :-  
+IRC :hitchcock.freenode.net 376 u4wmZ18CaoSDjFe :End of /MOTD command.
+IRC :u4wmZ18CaoSDjFe MODE u4wmZ18CaoSDjFe :+i
+IRC :u4wmZ18CaoSDjFe!~u4wmZ18Ca@toroon4839w-lp130-01-70-52-162-76.dsl.bell.ca JOIN #bitcoin
+GOT JOIN: [u4wmZ18CaoSDjFe]  CAddress(70.52.162.76:8333)
+IRC :hitchcock.freenode.net 332 u4wmZ18CaoSDjFe #bitcoin :v0.16 | “Electrum Pro” is wallet stealing malware. | DON'T POST ADDRESSES | ILLEGAL STUFF BAD | https://bitcoin.org | FORK TALK TO #bitcoin-forks | Rules: https://goo.gl/SJMlSL | https://en.bitcoin.it/wiki/Faq | Prices/Etc #bitcoin-pricetalk | Trade #bitcoin-otc | NO begging/altcoin | Webwallets steal! | URLs are often MALWARE
+IRC :hitchcock.freenode.net 333 u4wmZ18CaoSDjFe #bitcoin echeveria!~echeveria@unaffiliated/echeveria 1526724783
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :u4wmZ18CaoSDjFe heym0e promag Bonjourm8 AfroThundr lithiumpt Jimlite StopAndDecrypt tim167 URLcatcher dr_dogestein Deknos pioklo Langen Copenhagen_Bram goofie _exotime_ vmeson jwinterm akrmn Pythayr Typhon gghhffgjjjjnbfff xissburg `JX7P` whatsupboy okjl tlent frankenmint ExtraCrispy r00ter z|bandito wildlander Geekologist tryphe_ xamindar math_ ChunkyPuffs kallisti5 lnostdal intcat GuiltyLemon O01eg ebx RoBz Jimster480 QualityPear ph0b0s_ Jan\
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :d9b4bef9 nevodka malina zensterj Neros nethershaw Victorsueca chek2fire dingir_ Nefertiti squeakytoy qwedfg Guard1an ua lankanmon HumanG33k riclas xnbya thrmo DougieBot5000 JonathanD Guyver2 inspectorcluseau mistergold bozza POJO scorpio18 amelliaa ArkQuintet luke-jr HeySteve mda1 Sinclair_ stalled chomwitt rfcdejong__ Reixcel easye MrGr33n emch Alina-malina Logicwrath Sinclair6 Have-Quick +justan0theruser lxer sidbazinga wuzamarine codice
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :modrobert kajo crayon davide_at_debian Olipro frameloss Guest74988 mang0 gfgngf dt3k him-cesjf stealthii justache thurin Quokka rofl_ NoImNotNineVolt spinza subsignal MrsMouse Jonas___ likewhoa LobsterMan pigsalsa_ CodeBlue1776 belcher arij ehkks Beef ingodid segy blitzed booyah trash1e TheCryptek deusexbeer intx _W_ TinkerT destiny rokit r_x metts clearcasting thaumavorio SuchWow stoopkid wallet42 koalalorenzo goin2mars cabji haroldwu mode14
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :Code_Red davisonio dixon_ parliament poige exit70 Mrtn9 Brie_ dmj` games_ dabba rubensayshi_ Steamwells lauren Herka yokwe spaced0ut Very_slow duriangray db` HeN solarbunny takinbo Guest46318 philkode mariorz amatecha__ actel punto Prints arubi vicenteH cryptic GG_Diglett opsec sins- eNbasx grumble toxync13 Adriano akem alphab raarr @echeveria sdr_ jpe samm_ smilpent GTHaxor tccki Ademan-remote SoCo_cpp_ ]BFG[ Dartne someone235 Xantanium2 boturk
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :_gobostone newbold Junglisst THX1138 lem0n pbrewczynski BrAsS_mOnKeY paraxial bomb-on Logicwax Dragofix noeatnosleep eamonnw Bugz shillobear goiko carbolymer tylerdmace jchysk zivl peyman801 Tornevall GrimKriegor beggarman levite gohyda modin TheRealJohnGalt wagaf Okinz harrymm sword_smith Ian` red-001 Saad_ libertas JackH Emcy RusAlex torchic_____ vOYtEC_ twistedline datajerk bt dustinm` foul_owl antonmpeg kuldeep pheonix991 ap0calypse
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :RaTTuS|BIG hays M6HZ hsmiths FloTiX franbird noodle ShapeShifter499 Hasimir dgenr8 ry4nn ege dragnlord sidetrack dlking cereal7802 EvilEmpire DTZUZO thermoman nullptr| niab jkup |Clown| asteele jnewbery tombusby ghost43 visip jcarr HiggsPossum SirKatar luminoso fiet Qatz bloodninja coinsmurf Madars HugsNotDrugs Deadhand @wizkid057 Tank_Master RevZempoe Kev- coeus compuguy ap4lmtree tomaw wirehead ryn1x flyingkiwi ken2812221 kujo javi404 DeviaVir
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :x-warrior gaf_ Guest96031 oogaw cryptodechange n1bor cluelessperson puddinpop ErgoX__ cHawk Serendipity B0g4r7__ UNIcodeX_ OGF Xenogenesis phebus soma chachasmooth uebera|| erska kabaum m712 j416 Ed0 Code-Gray Iriez napo1eon Flonk ekrion aloril djoot Dan_au hiya OPK Willis CommVenus Infinity8 galeido Belxjander Bathmat Apocx Mrloafbot_ uwishuno Quito `yo ggg Tootoot222 spooky TheLive1 telnet robanswe fatalhalt johntramp petan lari_ koshii ibttis
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :flotwig aj Guest5068 nirved EastByte ne1 broccolistem tr4sk mniip BGL bauerj DarkPlace Taylor owlhooter zerymo ecx AlienTrooper wosctlup bildramer iKant_ n35xdxb0 arooni chu rasb cl0udl1ne naf jkister B0g4r7_ jeffree nickware-idle extorr bobvador ruid clintar SerajewelKS Thalian knapptime CtrlC botho rtgnx secret fletom Tiraspol sajfer darvon sandeep_ tardybaker Soligor Grouver avenger harding ctrlbreak cyphase ProfMac Cory JPT dave_uy jimpo
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :lrvick EricJD meLon heap_ fnb_theory finlstrm inoperable Kralle BaggaTea TaZeR gregman_ xuu potus TheRec catalase inhiding Jenetrix ianthius Magma Lrs_87 bashel swoup edenist xxyxx Furna Sterl Evel-Knievel Jibbler robink f_tick Dessimat0r tec__ lachesis fckd Dragon092 murrayn el dino82 guideline MetaNova garphy`aw cryptapus niston Dev91 bitch fredrin madduck dxrt Gallomimia eth1-work sh_smith cornfeedhobo fcanela ocb gmaxwell _systemd_is_evil
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :Chojin trn Squidicc charims_ Guest57495 n0rdi neon_ eblip ggVGc GoMaD ibrightly tripty bearBeer noefk Pilate andyo Old_Man sericon pystar89 Akihabara markus-k M1 Aristide WebDawg kriskropd ShellcatZero codebam jcorgan pelegreno tripleslash cschneid abracadaniel nimbleark psilonux swords gwillen p8m ossifrage NotInTheMood thddx fireduck shiinko shoogz aOssed synx azizLIGHT cesardv acetakwas SkillyOnFire fullstep Whipstickgostop bumbar__ abra0
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :waxwing LuaKT badpixel zaratustra a5m0 clopez afx237 batdog umpc Megumiin mryandao Guest19307 JasonO mkosmo St0neHead infernix ericnoan webhat ysangkok Emzy baldur Tycale jorik norkle xelra jrklein cheater kanzure Krakke grzs nmkr _flow__ murph idhanta naos teward clampy selsta br0dy_ Industrial Numline1_ JStoker Guest9049 pepesza- krisha tweaks tuxx_ CoJaBo jcara_ Voker57 epic NicolasDorier EnabrinTain iinaj sparky_005 vihta PsychoticBoy
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :gocevida atian berken LD_ Tykling ben8472 d42 skeees BlueMatt celophi BCBot jouke Anduck eb0t CC66 madjpm ATHallin AndrewPRS Principal8 Matador_ butterthebuddha lazai whiteyonenh musalbas ziddey mundus SpydarOO7 john883 instagibbs_ chainhead_ knocte dongcarl Sentineo dstzz eyeoh kallewoof ilbelkyr Psy0rz_ unlord CyrusV evert_ roasbeef johnny56 GGMethos Yoda immae Henry151_ Henry151 haakonn Htbrdd xit hasha Polylith seanBE jpaa furqan sze StatusD
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :stiell tednobs sato_vision coyfish mfwass raj SuperSeriousCat r3my micalexander ThisAsYou DTZUZU physpi ChrisMorrisOrg Anarchic eragmus Kamuela barq Bosma Artemis3 prettymuchbryce mappum bitspill ZeroNinja bramp lebster koss triptrap vquicksilver meZee Plnt capn-morgan skywalk chen Indicium Frans-Willem Guest95249 ethicsgradient toddf skza Chex hammond Falcon` nyaomi ChinnoDog BabyJesus666 nsh mparisi Farshid deanman nwoki Apocalyptic nkuttler
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :pfista orang pfallenop cosmicc rickflare2 Fish sdaftuar MalMen_ Kostenko jorijn piqure Arokh @kinlo Nightmare mrBen2k2k2k markasoftware attilio linuxdaemon Caraway Monthrecg dskull eth2 slax0r TheV01d Kalimerab pushpop_ Xiodine_ Relicka PatBoy linear masterpe_ paranoid maxalt Kazzy GoldenBear mr_zeus shibe_ CryptoSiD deetwelve aksz RBecker robogoat orionstein mrwooster_ aib href rahimnathwani cyberlard samO Hatter Teraii WKNiGHT lavenders
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :ByronJohnson yoink CygniX Scally Klumben lukasdboer ljrbot Meeh_ Death916 ghormoon opdenkamp robzon comboy Lauda simbalion Ymgve thehebs bhuddah archLinuxUser @altgribble sdamashek pztrick s7r eenoch eculver gnomethrower Hunner meretrix phirenze torbor knight_ captain42 Apoc4lypse jiffe s0lidus Caseous breitenj- deafboy_ helo michagogo @gribble Hatsjoe bobj lerc olivierjanss Azelphur jonasschnelli tencevad raz runter thrasibule_ MalteJ elgrecoFL
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :nejon profall runeks glowsticks Mutsuhito npanic d10n ribasushi Guest8931 pierre` treyzania vinnix alphawarrior hello2 dgrove2 fiatjaf betawaffle digitalcold asoltys tun3 @phantomcircuit GNULinuxGuy TD-Linux Lightsword The_Miser rev_strangehope sturles kt CuriousErnestBro vt240 shakalaka diarpi thortron kants axsuul bitbee immediateVeto needmoney90 weinvantedzero EPiSKiNG- bhez_ trotski2000 lolmac KingSam15 m0rrisc z3uS graingert braderhart
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :scubacuda wbnns idiotkenza chrisk1 MRW buhrmi xttraces kaish s0ph1a usecrypto alkyl sp0ck MarcoPolio Compy_ rodarmor amDOGE RobertClarke HashNuke SergeiG jabular reardencode gernot mosh jemurray alt0id riotz gash7472222 barhom vincian @midnightmagic dna6a vicer0y stevenroose thom omnigoat hal9999 IPGlider GenTarkin WhizzWr heyden_web jwheare argentum sunra Protagonistics dabura667 prosody aksyn ahmed_ yena CornFly ryang JSharp LordCow yrashk
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :azi` alaricsp niko piklu kamyl synchronous GAit loopback ccook teeteewhy clef lsa Guest88481 roboo wrmsr DavidFromBE DrHaribo hirish ra4king tuxcanfly dave4925 Schrapnel m4rCsi_ fractex rudiw epscy murr4y bow tangelo anonnumberanon Nebraskka gazab mavrikant qawap oscar__ latez avocado Dead_Body cdx_ arunpyasi illu brand0 ejsf Diablo-D3 mr_burdell s4y Stianoph DangerM loeken extnct AndyMillar ccchris zz_briemode netg michael_mbp Shibe adam3us_
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :morcos switch- n1000 iamgr00t dooglus_ thib iwkse [Syntax] nikow1 lourfire Nothing4You kidon gears xpitr_ kha0Z_ schnibbler singlerider cncr04s MillerBOSS buZz pocketprotector Ballzak_ bbradley RainMan28 da2ce7 _parts Drajwer aem tarnover segnior ripazha Unix-Dude nanotube alphaseg felixdv lesderid pmx RaptorJesus PricklyPear_ s17 ec2-user1 dizko dlb76 StephenS starsoccer bobey6 Smuckerz solos gimpyd pawe1 KennosiS Roconda makomk ensign sam
+IRC :hitchcock.freenode.net 353 u4wmZ18CaoSDjFe = #bitcoin :rotarydialer beanumsum dostoyevsky khalahan sherbet cfields smiba luny AndyS2 jscob chjj pigeons Arr0way Someguy123 yang blazeme8 achow101 heinrich5991 Linkandzelda sbingner mesh_ xHire toksnes mapop- berndj raedchen baraba mrhelpmann Ripcord petertodd baikal diginaut int0x27h Roedy Taek newbie-- phkd rogers hkjn0 RahulS AdrianG_ ivan^ jmcn_ blueingr1ss SN4T14 delpa^ nwonknu mycroft Eliel Rix
+IRC :hitchcock.freenode.net 366 u4wmZ18CaoSDjFe #bitcoin :End of /NAMES list.
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~u4wmZ18Ca toroon4839w-lp130-01-70-52-162-76.dsl.bell.ca hitchcock.freenode.net u4wmZ18CaoSDjFe H :0  u4wmZ18CaoSDjFe
+GOT WHO: [u4wmZ18CaoSDjFe]  CAddress(70.52.162.76:8333)
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~heym0e 76-237-90-194.lightspeed.rcsntx.sbcglobal.net verne.freenode.net heym0e H :0 heym0e
+GOT WHO: [heym0e]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~promag bl22-247-244.dsl.telepac.pt weber.freenode.net promag H :0 promag
+GOT WHO: [promag]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Bonjourm8 2600:1702:1a70:5e10:6c48:d8aa:9e12:1950 leguin.freenode.net Bonjourm8 H :0 realname
+GOT WHO: [Bonjourm8]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~AfroThund pool-100-16-254-51.bltmmd.fios.verizon.net tolkien.freenode.net AfroThundr G :0 Eddie J Carswell II
+GOT WHO: [AfroThundr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lithiumpt 185.156.175.108 tolkien.freenode.net lithiumpt H :0 How much difference does it make?
+GOT WHO: [lithiumpt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Jimlite 2601:401:c600:31ce:fa:be8:28dc:9ac4 leguin.freenode.net Jimlite H :0 realname
+GOT WHO: [Jimlite]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~StopAndDe unaffiliated/stopanddecrypt barjavel.freenode.net StopAndDecrypt H :0 ...
+GOT WHO: [StopAndDecrypt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tim ptr-25zlrog81u1lfawoquw.18120a2.ip6.access.telenet.be hobana.freenode.net tim167 H :0 tim
+GOT WHO: [tim167]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~arthur 92-110-187-202.cable.dynamic.v4.ziggo.nl wilhelm.freenode.net URLcatcher H :0 purple
+GOT WHO: [URLcatcher]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~root 145.133.109.35 sinisalo.freenode.net dr_dogestein H :0 root
+GOT WHO: [dr_dogestein]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~somenym unaffiliated/menace karatkievich.freenode.net Deknos H :0 realname
+GOT WHO: [Deknos]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Pioklo 188.146.132.197.nat.umts.dynamic.t-mobile.pl cherryh.freenode.net pioklo H :0 Pioklo
+GOT WHO: [pioklo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Langen c80-216-202-122.bredband.comhem.se verne.freenode.net Langen H :0 Langen
+GOT WHO: [Langen]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~elonsatos unaffiliated/elon-satoshi/x-2794555 kornbluth.freenode.net Copenhagen_Bram H :0 elonsatoshi
+GOT WHO: [Copenhagen_Bram]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~goofie 104-7-174-119.lightspeed.hstntx.sbcglobal.net adams.freenode.net goofie H :0 goofie
+GOT WHO: [goofie]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~exotime gateway/tor-sasl/exotime zettel.freenode.net _exotime_ H :0 exotime
+GOT WHO: [_exotime_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rmacleod 192-0-133-4.cpe.teksavvy.com weber.freenode.net vmeson H :0 Randy Macleod
+GOT WHO: [vmeson]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/jwinterm weber.freenode.net jwinterm H :0 jwinterm
+GOT WHO: [jwinterm]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~akrmn 79.red-83-54-170.dynamicip.rima-tde.net verne.freenode.net akrmn H :0 akrmn
+GOT WHO: [akrmn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pither195 104.203.252.112 leguin.freenode.net Pythayr H :0 realname
+GOT WHO: [Pythayr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Typhon dslb-092-078-206-163.092.078.pools.vodafone-ip.de cherryh.freenode.net Typhon H :0 Typhon
+GOT WHO: [Typhon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~androirc 061244029159.ctinets.com leguin.freenode.net gghhffgjjjjnbfff H :0 Android IRC Client
+GOT WHO: [gghhffgjjjjnbfff]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~xissburg unaffiliated/xissburg cherryh.freenode.net xissburg H :0 xissburg
+GOT WHO: [xissburg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lmao 2a00:23c4:312a:9300:58be:b898:a609:7b68 hobana.freenode.net `JX7P` H :0 none
+GOT WHO: [`JX7P`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~whatsupbo unaffiliated/scobydoo weber.freenode.net whatsupboy H :0 whatsupboy
+GOT WHO: [whatsupboy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~okjl 2605:a601:5215:566d:f02c:a55c:9892:6113 livingstone.freenode.net okjl H :0 realname
+GOT WHO: [okjl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tlent pool-108-46-46-245.nycmny.fios.verizon.net sinisalo.freenode.net tlent H :0 tlent
+GOT WHO: [tlent]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~frankenmi 97-120-86-149.ptld.qwest.net cherryh.freenode.net frankenmint H :0 frankenmint
+GOT WHO: [frankenmint]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ExtraCris 185.9.18.150 sinisalo.freenode.net ExtraCrispy H :0 ExtraCrispy__
+GOT WHO: [ExtraCrispy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~r00ter p5DDF0823.dip0.t-ipconnect.de hitchcock.freenode.net r00ter H :0 ???
+GOT WHO: [r00ter]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~keyboardW c-71-238-106-21.hsd1.or.comcast.net tolkien.freenode.net z|bandito H :0 willi
+GOT WHO: [z|bandito]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~wildlande unaffiliated/wildlander tolkien.freenode.net wildlander H :0 wildlander
+GOT WHO: [wildlander]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~me unaffiliated/geekologist hobana.freenode.net Geekologist H :0 me
+GOT WHO: [Geekologist]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tryphe unaffiliated/tryphe orwell.freenode.net tryphe_ H :0 realname
+GOT WHO: [tryphe_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 035-134-097-050.static.chtrptr.net weber.freenode.net xamindar H :0 xamindar
+GOT WHO: [xamindar]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mario p54923E7C.dip0.t-ipconnect.de verne.freenode.net math_ H :0 In math we trust!
+GOT WHO: [math_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ChunkyPuf gateway/tor-sasl/chunkypuffs zettel.freenode.net ChunkyPuffs H :0 realname
+GOT WHO: [ChunkyPuffs]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kallisti5 mx.dal1.terarocket.io weber.freenode.net kallisti5 H :0 Alexander von Gluck IV
+GOT WHO: [kallisti5]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lnostdal 77.70.119.51 livingstone.freenode.net lnostdal H :0 https://quanto.ga/
+GOT WHO: [lnostdal]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~zshlyk gateway/tor-sasl/intcat zettel.freenode.net intcat H :0 yoctopede
+GOT WHO: [intcat]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~guiltylem unaffiliated/guiltylemon livingstone.freenode.net GuiltyLemon G :0 GuiltyLemon
+GOT WHO: [GuiltyLemon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~o01eg 2a02:2698:825:6813:77b3:5042:ddcd:276d rajaniemi.freenode.net O01eg H :0 Unknown
+GOT WHO: [O01eg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ebx unaffiliated/ebex cherryh.freenode.net ebx H :0 ebx
+GOT WHO: [ebx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~RoBz unaffiliated/robz rajaniemi.freenode.net RoBz G :0 RoBz
+GOT WHO: [RoBz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~IceChat9 c-66-176-164-32.hsd1.fl.comcast.net hobana.freenode.net Jimster480 H :0 The Chat Cool People Use
+GOT WHO: [Jimster480]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Admin cpc95116-newt39-2-0-cust270.19-3.cable.virginm.net tolkien.freenode.net QualityPear H :0 realname
+GOT WHO: [QualityPear]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ph0b0s adsl-182.91.140.37.tellas.gr rajaniemi.freenode.net ph0b0s_ H :0 ph0b0s
+GOT WHO: [ph0b0s_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kvirc 142.119.10.61 livingstone.freenode.net Jan\ H :0 1,11KVIrc 5.0.0 Aria http://kvirc.net/
+GOT WHO: [Jan\]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~d9b4bef9 web501.webfaction.com weber.freenode.net d9b4bef9 H :0 d9b4bef9
+GOT WHO: [d9b4bef9]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nevodka 184.75.221.195 orwell.freenode.net nevodka H :0 nevodka
+GOT WHO: [nevodka]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~malina unaffiliated/malina verne.freenode.net malina H :0 Malina
+GOT WHO: [malina]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~john 93.115.85.148 orwell.freenode.net zensterj H :0 james
+GOT WHO: [zensterj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Neros 31-32-241-72.abo.bbox.fr leguin.freenode.net Neros H :0 Neros
+GOT WHO: [Neros]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin badwolf unaffiliated/nethershaw leguin.freenode.net nethershaw H :0 ora pro pluvis
+GOT WHO: [nethershaw]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Victorsue unaffiliated/victorsueca tolkien.freenode.net Victorsueca H :0 Victor Oliver
+GOT WHO: [Victorsueca]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~spiros 2a02:587:941a:6201:d63d:7eff:fe38:5eb0 hobana.freenode.net chek2fire G :0 purple
+GOT WHO: [chek2fire]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~asdf unaffiliated/dingir weber.freenode.net dingir_ H :0 asdf
+GOT WHO: [dingir_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Nefertiti unaffiliated/nefertiti hitchcock.freenode.net Nefertiti H :0 Agent 355
+GOT WHO: [Nefertiti]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~squeakyto h87-96-232-177.cust.se.alltele.net livingstone.freenode.net squeakytoy H :0 realname
+GOT WHO: [squeakytoy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~adam 194.177.29.74 livingstone.freenode.net qwedfg H :0 qwedfg
+GOT WHO: [qwedfg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Guard1an unaffiliated/guard1an sinisalo.freenode.net Guard1an H :0 Guard1an
+GOT WHO: [Guard1an]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ua unaffiliated/uniqanomaly leguin.freenode.net ua H :0 uniqanomaly
+GOT WHO: [ua]  decode failed
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~LKNnet CPE64777d632383-CM64777d632380.cpe.net.cable.rogers.com karatkievich.freenode.net lankanmon G :0 lankanmon
+GOT WHO: [lankanmon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~HumanG33k 62.147.242.8 karatkievich.freenode.net HumanG33k H :0 realname
+GOT WHO: [HumanG33k]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin riclas 148.63.37.111 orwell.freenode.net riclas H :0 ...
+GOT WHO: [riclas]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel ec2-54-72-128-94.eu-west-1.compute.amazonaws.com weber.freenode.net xnbya H :0 Alexis Enston,,,
+GOT WHO: [xnbya]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thrmo unaffiliated/thrmo verne.freenode.net thrmo H :0 realname
+GOT WHO: [thrmo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DougieBot unaffiliated/dougiebot5000 hobana.freenode.net DougieBot5000 H :0 realname
+GOT WHO: [DougieBot5000]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~JonathanD freenode/staff/jonathand orwell.freenode.net JonathanD H :0 fish
+GOT WHO: [JonathanD]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Guyver guyver2.xs4all.nl verne.freenode.net Guyver2 H :0 Guyver Chronos
+GOT WHO: [Guyver2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Inspector 71-220-36-195.mpls.qwest.net leguin.freenode.net inspectorcluseau H :0 doofus
+GOT WHO: [inspectorcluseau]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mistergol 77.243.24.192 rajaniemi.freenode.net mistergold H :0 U-DESKTOP-V4KOAET\mistergold
+GOT WHO: [mistergold]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bozza unaffiliated/bozza sinisalo.freenode.net bozza H :0 bozza
+GOT WHO: [bozza]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/pojo weber.freenode.net POJO H :0 POJO
+GOT WHO: [POJO]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~scorpio 193.219.117.110 verne.freenode.net scorpio18 H :0 scorpio18
+GOT WHO: [scorpio18]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~amelliaa 46.166.142.217 sinisalo.freenode.net amelliaa H :0 amelliaa
+GOT WHO: [amelliaa]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ArkQuinte 200116b840d4120066631e8efcc418df.dip.versatel-1u1.de hobana.freenode.net ArkQuintet H :0 ArkQuintet
+GOT WHO: [ArkQuintet]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~luke-jr unaffiliated/luke-jr hobana.freenode.net luke-jr H :0 Luke Dashjr
+GOT WHO: [luke-jr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hexchaaat unaffiliated/heysteve cherryh.freenode.net HeySteve H :0 realname
+GOT WHO: [HeySteve]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~metts netacc-gpn-5-202-16.pool.telenor.hu weber.freenode.net mda1 H :0 metts
+GOT WHO: [mda1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sinclair6 2602:306:c4b1:2570:ec4d:8c1:2416:4bb7 leguin.freenode.net Sinclair_ H :0 Sinclair6
+GOT WHO: [Sinclair_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~stalled unaffiliated/stalled sinisalo.freenode.net stalled G :0 stalled
+GOT WHO: [stalled]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chomwitt 2a02:587:dc01:ed00:e444:22e:bcd1:6b3f karatkievich.freenode.net chomwitt H :0 chomwitt
+GOT WHO: [chomwitt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rfcdejong 2a02:a443:3022:1:504a:ee89:aa88:d571 adams.freenode.net rfcdejong__ H :0 Raymond de Jong
+GOT WHO: [rfcdejong__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Reixcel 217.51-175-237.customer.lyse.net verne.freenode.net Reixcel H :0 realname
+GOT WHO: [Reixcel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~user common-lisp.net adams.freenode.net easye H :0 unknown
+GOT WHO: [easye]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~None BSN-142-194-111.static.siol.net tolkien.freenode.net MrGr33n H :0 realname
+GOT WHO: [MrGr33n]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Mc 163.172.94.135 orwell.freenode.net emch H :0 realname
+GOT WHO: [emch]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Alina-mal unaffiliated/alina-malina orwell.freenode.net Alina-malina H :0 Alinka
+GOT WHO: [Alina-malina]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~admin 67.149.40.41 weber.freenode.net Logicwrath H :0 Logicwrath
+GOT WHO: [Logicwrath]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sinclair6 gateway/vpn/privateinternetaccess/sinclair6 livingstone.freenode.net Sinclair6 H :0 Sinclair6
+GOT WHO: [Sinclair6]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aaron c-71-205-242-88.hsd1.co.comcast.net tolkien.freenode.net Have-Quick H :0 aaron
+GOT WHO: [Have-Quick]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~justanoth unaffiliated/justanotheruser hitchcock.freenode.net justan0theruser H+ :0 Justan
+GOT WHO: [justan0theruser]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lx ip5f5bd657.dynamic.kabel-deutschland.de sinisalo.freenode.net lxer H :0 lx
+GOT WHO: [lxer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Thunderbi 122.163.121.111 orwell.freenode.net sidbazinga G :0 sidbazinga
+GOT WHO: [sidbazinga]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kvirc c-73-135-97-117.hsd1.md.comcast.net tolkien.freenode.net wuzamarine H :0 KVIrc 4.2.0 Equilibrium http://kvirc.net/
+GOT WHO: [wuzamarine]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~toodles c-98-206-252-165.hsd1.il.comcast.net barjavel.freenode.net codice G :0 Toodles McGee
+GOT WHO: [codice]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eur ftp.eurasia.nu verne.freenode.net modrobert H :0 http://www.eurasia.nu
+GOT WHO: [modrobert]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kajo 2001:4c50:371d:8400:ca2a:14ff:fe0f:7dd1 sinisalo.freenode.net kajo H :0 kajo
+GOT WHO: [kajo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~crayon unaffiliated/crayon weber.freenode.net crayon H :0 crayon
+GOT WHO: [crayon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~davide host184-243-dynamic.1-87-r.retail.telecomitalia.it orwell.freenode.net davide_at_debian H :0 Davide
+GOT WHO: [davide_at_debian]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Olipro uncyclopedia/pdpc.21for7.olipro adams.freenode.net Olipro H :0 Olipro
+GOT WHO: [Olipro]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin frameloss gateway/vpn/privateinternetaccess/frameloss sinisalo.freenode.net frameloss H :0 frameloss
+GOT WHO: [frameloss]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin irssi irc.servertex.com sinisalo.freenode.net Guest74988 H :0 jaskal
+GOT WHO: [Guest74988]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin mang0 unaffiliated/mang0 leguin.freenode.net mang0 G :0 mang0
+GOT WHO: [mang0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fgngfng 172.111.178.22 barjavel.freenode.net gfgngf H :0 realname
+GOT WHO: [gfgngf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/dt3k sinisalo.freenode.net dt3k H :0 Berry Cochran
+GOT WHO: [dt3k]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cesjf unaffiliated/himcesjf weber.freenode.net him-cesjf H :0 himcesjf
+GOT WHO: [him-cesjf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid17385 gateway/web/irccloud.com/x-xofmnoxeodymtkgh sinisalo.freenode.net stealthii H :0 Dan Porter
+GOT WHO: [stealthii]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin justache gateway/web/irccloud.com/x-bcincuhxvqpvdyiq sinisalo.freenode.net justache H :0 justache
+GOT WHO: [justache]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin thurin thurin.org sinisalo.freenode.net thurin H :0 thurin
+GOT WHO: [thurin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Quokka gateway/shell/elitebnc/x-vxhoebptzosvgkyu kornbluth.freenode.net Quokka H :0 Quokka
+GOT WHO: [Quokka]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin rofl 2601:441:8680:4631:2456:9adf:efad:ce31 sinisalo.freenode.net rofl_ H :0 www.aoeu2code.com
+GOT WHO: [rofl_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~anon pool-100-8-62-55.nwrknj.fios.verizon.net orwell.freenode.net NoImNotNineVolt H :0 anonymous_user
+GOT WHO: [NoImNotNineVolt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~spin 155.93.246.187 sinisalo.freenode.net spinza G :0 spin
+GOT WHO: [spinza]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~subsignal 96-66-141-90-static.hfc.comcastbusiness.net verne.freenode.net subsignal H :0 subsignal
+GOT WHO: [subsignal]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~MsMouse 213-229-74-20.static.as29550.net orwell.freenode.net MrsMouse H :0 MsMouse
+GOT WHO: [MrsMouse]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Jonas__ unaffiliated/jonas/x-7723671 weber.freenode.net Jonas___ H :0 Jonas
+GOT WHO: [Jonas___]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~likewhoa s2.maserver.com weber.freenode.net likewhoa G :0 Fernando Reyes
+GOT WHO: [likewhoa]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~not unaffiliated/lobsterman sinisalo.freenode.net LobsterMan H :0 ...
+GOT WHO: [LobsterMan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pigsalsa pool-98-115-181-236.phlapa.fios.verizon.net sinisalo.freenode.net pigsalsa_ H :0 pigsalsa
+GOT WHO: [pigsalsa_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~CodeBlue1 107-215-134-60.lightspeed.cicril.sbcglobal.net wilhelm.freenode.net CodeBlue1776 H :0 CodeBlue1776
+GOT WHO: [CodeBlue1776]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~belcher unaffiliated/belcher kornbluth.freenode.net belcher H :0 belcher
+GOT WHO: [belcher]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid225068 gateway/web/irccloud.com/x-hltptdrtyivzlzpu rajaniemi.freenode.net arij H :0 arij
+GOT WHO: [arij]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ehkks 104.236.50.223 sinisalo.freenode.net ehkks G :0 ehkks
+GOT WHO: [ehkks]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin beef unaffiliated/beef leguin.freenode.net Beef H :0 beefviper
+GOT WHO: [Beef]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~matt http1.gather.info orwell.freenode.net ingodid H :0 ingodid
+GOT WHO: [ingodid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin segfault pdpc/supporter/active/segy barjavel.freenode.net segy G :0 me.
+GOT WHO: [segy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~blitzed 196.245.9.52 weber.freenode.net blitzed H :0 blitzed
+GOT WHO: [blitzed]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bb 193.25.1.157 verne.freenode.net booyah H :0 my man
+GOT WHO: [booyah]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid295344 gateway/web/irccloud.com/x-aaxugmjrrbntqcuf hobana.freenode.net trash1e H :0 grangerstranger
+GOT WHO: [trash1e]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~TheCrypte ircbouncehouse.com hobana.freenode.net TheCryptek H :0 *
+GOT WHO: [TheCryptek]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~deusexbee 093-092-181-135-dynamic-pool-adsl.wbt.ru verne.freenode.net deusexbeer H :0 deusexbeer
+GOT WHO: [deusexbeer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin intx unaffiliated/intx hobana.freenode.net intx H :0 intx
+GOT WHO: [intx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~w irc.w-wins.com leguin.freenode.net _W_ H :0 John Raymond Wold
+GOT WHO: [_W_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~putneyj 75-8-78-151.lightspeed.rlghnc.sbcglobal.net sinisalo.freenode.net TinkerT H :0 JP
+GOT WHO: [TinkerT]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~reorder b2eed622.ttnk.hu cherryh.freenode.net destiny H :0 reorder
+GOT WHO: [destiny]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rokit 89.249.64.155 kornbluth.freenode.net rokit H :0 tester123
+GOT WHO: [rokit]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid172710 gateway/web/irccloud.com/x-lcldvwyhtheqxnnu leguin.freenode.net r_x H :0 v t
+GOT WHO: [r_x]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~skypatrol 78-131-95-225.pool.digikabel.hu leguin.freenode.net metts H :0 skypatrol
+GOT WHO: [metts]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~clearcast 220.240.15.119 weber.freenode.net clearcasting G :0 Chris
+GOT WHO: [clearcasting]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thaumavor thaumavor.io kornbluth.freenode.net thaumavorio G :0 Connor Anderson
+GOT WHO: [thaumavorio]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid165151 dogecoin/staff-emeritus/suchwow rajaniemi.freenode.net SuchWow H :0 Such Wow
+GOT WHO: [SuchWow]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid137696 gateway/web/irccloud.com/x-ffrivdoeagyfqpnf sinisalo.freenode.net stoopkid G :0 stoopkid
+GOT WHO: [stoopkid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid154231 gateway/web/irccloud.com/x-mamcpkoytgudckri rajaniemi.freenode.net wallet42 H :0 wallet42
+GOT WHO: [wallet42]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid241694 gateway/web/irccloud.com/x-dtwvgxptfwfvwmdr rajaniemi.freenode.net koalalorenzo H :0 Lorenzo
+GOT WHO: [koalalorenzo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid219799 gateway/web/irccloud.com/x-wrmahusbhykcpwyk rajaniemi.freenode.net goin2mars H :0 goin2mars
+GOT WHO: [goin2mars]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dgvbdbh 2a00:1ca8:17:3e1::9d7e kornbluth.freenode.net cabji H :0 sclksf
+GOT WHO: [cabji]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid13653 gateway/web/irccloud.com/x-puknkzfptxhopole kornbluth.freenode.net haroldwu H :0 Yu-Fu Wu
+GOT WHO: [haroldwu]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid2371 gateway/web/irccloud.com/x-ezkfwonsetqqtrhx kornbluth.freenode.net mode14 H :0 Jamie Hopper
+GOT WHO: [mode14]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Code_Red 76.ip-151-80-61.eu sinisalo.freenode.net Code_Red H :0 Red is new Green
+GOT WHO: [Code_Red]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid182754 gateway/web/irccloud.com/x-dwgdhtayvaixvgxv kornbluth.freenode.net davisonio H :0 Craig Davison
+GOT WHO: [davisonio]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid151180 gateway/web/irccloud.com/x-ttqzacvfnrvyfmkk kornbluth.freenode.net dixon_ H :0 Dick Olsson
+GOT WHO: [dixon_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid146171 gateway/web/irccloud.com/x-axisjerwkflaosco sinisalo.freenode.net parliament H :0 owls
+GOT WHO: [parliament]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid250374 gateway/web/irccloud.com/x-mokeubdvbwudlrhy kornbluth.freenode.net poige H :0 poige
+GOT WHO: [poige]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid231392 gateway/web/irccloud.com/x-rbipitdljcurutho livingstone.freenode.net exit70 H :0 exit70
+GOT WHO: [exit70]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid243313 gateway/web/irccloud.com/x-czjnqrcqubfrrzmi livingstone.freenode.net Mrtn9 H :0 Mrtn
+GOT WHO: [Mrtn9]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid136495 gateway/web/irccloud.com/x-cyuqcvvyafkrngrw livingstone.freenode.net Brie_ G :0 Hannu
+GOT WHO: [Brie_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid72307 gateway/web/irccloud.com/x-glrmqstdlctrgvap livingstone.freenode.net dmj` H :0 David johnson
+GOT WHO: [dmj`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid99242 gateway/web/irccloud.com/x-prrjsxlpshluirqa kornbluth.freenode.net games_ H :0 games_
+GOT WHO: [games_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dabba gateway/tor-sasl/dabba zettel.freenode.net dabba G :0 Got ZNC?
+GOT WHO: [dabba]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid201751 gateway/web/irccloud.com/x-xuuylxfwggrfjusi livingstone.freenode.net rubensayshi_ H :0 Ruben de Vries
+GOT WHO: [rubensayshi_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid79209 gateway/web/irccloud.com/x-ailazrdnpyypfysb kornbluth.freenode.net Steamwells H :0 Mark
+GOT WHO: [Steamwells]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid187733 python/site-packages/lahwran livingstone.freenode.net lauren G :0 lahwran
+GOT WHO: [lauren]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid58030 gateway/web/irccloud.com/x-uhszlqriwmxearhv sinisalo.freenode.net Herka H :0 Janis
+GOT WHO: [Herka]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid51352 gateway/web/irccloud.com/x-ghfpiptnylfgtzxt kornbluth.freenode.net yokwe H :0 yokwe
+GOT WHO: [yokwe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~spaced0ut unaffiliated/spaced0ut sinisalo.freenode.net spaced0ut H :0 realname
+GOT WHO: [spaced0ut]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dewrock CPEc412f5da6ef1-CM84948c4b03d0.cpe.net.cable.rogers.com adams.freenode.net Very_slow H :0 Very_slow
+GOT WHO: [Very_slow]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin duriangray 2600:3c01::f03c:91ff:fe35:9474 sinisalo.freenode.net duriangray G :0 Durian
+GOT WHO: [duriangray]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin db gateway/shell/panicbnc/x-xjpfukvvqtgnuhed adams.freenode.net db` H :0 db
+GOT WHO: [db`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid173181 gateway/web/irccloud.com/x-cmpvxojtqnaweoqj adams.freenode.net HeN H :0 C
+GOT WHO: [HeN]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sol 2001:778:200:300:20c:29ff:fe8a:4af7 sinisalo.freenode.net solarbunny H :0 sol
+GOT WHO: [solarbunny]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid19838 gateway/web/irccloud.com/x-prweeqrvibnywwew wolfe.freenode.net takinbo H :0 takinbo
+GOT WHO: [takinbo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid39942 gateway/web/irccloud.com/x-qsqakzxeklmicchm wolfe.freenode.net Guest46318 H :0 railzand
+GOT WHO: [Guest46318]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid295622 gateway/web/irccloud.com/x-opgspmbqrxwrfzpe wolfe.freenode.net philkode H :0 Phil Kode
+GOT WHO: [philkode]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid490 gateway/web/irccloud.com/x-curlpcjeicvcwcok sinisalo.freenode.net mariorz H :0 mario romero
+GOT WHO: [mariorz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid10006 gateway/web/irccloud.com/x-fvihgnqarmierycu adams.freenode.net amatecha__ H :0 amatecha
+GOT WHO: [amatecha__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid48 gateway/web/irccloud.com/x-mbzdxkvypvvvbmzq wolfe.freenode.net actel H :0 actel
+GOT WHO: [actel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid233170 gateway/web/irccloud.com/x-ougxebrooyemkpfl sinisalo.freenode.net punto G :0 Ariel
+GOT WHO: [punto]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~info unaffiliated/prints verne.freenode.net Prints H :0 Yaldabaoth
+GOT WHO: [Prints]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ese168 gateway/tor-sasl/ese168 zettel.freenode.net arubi H :0 arubi
+GOT WHO: [arubi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~user 35.233.15.37.dynamic.jazztel.es tolkien.freenode.net vicenteH H :0 unknown
+GOT WHO: [vicenteH]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cryptic 142.196.170.87 orwell.freenode.net cryptic H :0 cryptic-
+GOT WHO: [cryptic]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~GG_Diglet gateway/tor-sasl/ggdiglett/x-04604803 zettel.freenode.net GG_Diglett H :0 Got ZNC?
+GOT WHO: [GG_Diglett]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~opsec opsec/opsec hobana.freenode.net opsec H :0 opsec
+GOT WHO: [opsec]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sins moh1224.com karatkievich.freenode.net sins- H :0 sins
+GOT WHO: [sins-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~elite klavdij.com adams.freenode.net eNbasx H :0 Unix Traveler
+GOT WHO: [eNbasx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~grumble freenode/staff/grumble barjavel.freenode.net grumble G :0 Falling down is the same as being hit by a planet.
+GOT WHO: [grumble]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~toxync13 124.239.252.99 barjavel.freenode.net toxync13 H :0 toxync13
+GOT WHO: [toxync13]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~AdrianoOl 109.255.161.15 kornbluth.freenode.net Adriano H :0 Adriano Oliveira
+GOT WHO: [Adriano]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~akem 84.39.112.114 kornbluth.freenode.net akem H :0 realname
+GOT WHO: [akem]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin alphab ip68-7-160-114.sd.sd.cox.net tolkien.freenode.net alphab H :0 ...
+GOT WHO: [alphab]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin raarr gateway/vpn/privateinternetaccess/raarr cherryh.freenode.net raarr H :0 rrrrrrr
+GOT WHO: [raarr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~echeveria unaffiliated/echeveria cherryh.freenode.net echeveria G@ :0 echeveria
+GOT WHO: [echeveria]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~SDr 45.32.138.151 kornbluth.freenode.net sdr_ H :0 SDr
+GOT WHO: [sdr_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jpe 217.66.60.5 tolkien.freenode.net jpe H :0 realname
+GOT WHO: [jpe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~samm 176-161-115-196.abo.bbox.fr cherryh.freenode.net samm_ H :0 samm_
+GOT WHO: [samm_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~smilpent unaffiliated/smilpent hitchcock.freenode.net smilpent H :0 Smil Pent
+GOT WHO: [smilpent]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~GTHaxor 2601:5c0:c100:ad70:298a:7708:57cd:772f kornbluth.freenode.net GTHaxor H :0 GTHaxor
+GOT WHO: [GTHaxor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tccki 2001:19f0:ac01:e90:5400:1ff:fe3e:56e9 kornbluth.freenode.net tccki H :0 tccki
+GOT WHO: [tccki]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dan 108-66-134-195.lightspeed.sntcca.sbcglobal.net hitchcock.freenode.net Ademan-remote H :0 Daniel Roberts
+GOT WHO: [Ademan-remote]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin soco gateway/vpn/privateinternetaccess/sococpp/x-93321146 tolkien.freenode.net SoCo_cpp_ H :0 SoCo C++
+GOT WHO: [SoCo_cpp_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~BFG unaffiliated/bfg/x-9473890 karatkievich.freenode.net ]BFG[ H :0 BFG
+GOT WHO: []BFG[]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 124-171-99-71.dyn.iinet.net.au barjavel.freenode.net Dartne G :0 Dartne
+GOT WHO: [Dartne]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~someone23 unaffiliated/someone235 cherryh.freenode.net someone235 H :0 realname
+GOT WHO: [someone235]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Xantanium ip-149-248-188-83.fibre.fibrestream.ca verne.freenode.net Xantanium2 H :0 realname
+GOT WHO: [Xantanium2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~boturk unaffiliated/boturk weber.freenode.net boturk H :0 boturk
+GOT WHO: [boturk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Ace 70-59-0-135.hlrn.qwest.net orwell.freenode.net _gobostone H :0 Gallagher"
+GOT WHO: [_gobostone]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~adam neatnik.net orwell.freenode.net newbold H :0 Adam Newbold
+GOT WHO: [newbold]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Junglisst 2a00:23c4:92f:701:483a:7884:491e:3741 leguin.freenode.net Junglisst H :0 realname
+GOT WHO: [Junglisst]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~THX1138 unaffiliated/zzyzx verne.freenode.net THX1138 H :0 Jon Snow
+GOT WHO: [THX1138]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lem0n unaffiliated/lem0n adams.freenode.net lem0n G :0 lem0n
+GOT WHO: [lem0n]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid172802 gateway/web/irccloud.com/x-aqcqnhgcjnnwvogk leguin.freenode.net pbrewczynski H :0 Paul Brewczynski
+GOT WHO: [pbrewczynski]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin g2 185.198.189.47 cherryh.freenode.net BrAsS_mOnKeY H :0 ...
+GOT WHO: [BrAsS_mOnKeY]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~paraxial cpc111117-wiga14-2-0-cust1368.18-3.cable.virginm.net verne.freenode.net paraxial H :0 paraxial
+GOT WHO: [paraxial]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bomb-on 139-142-17-89.fiber.hringdu.is tolkien.freenode.net bomb-on H :0 bomb on!
+GOT WHO: [bomb-on]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Logicwax c-76-126-174-152.hsd1.ca.comcast.net barjavel.freenode.net Logicwax G :0 HotLog
+GOT WHO: [Logicwax]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Dragofix 91-155-23-196.elisa-laajakaista.fi verne.freenode.net Dragofix H :0 Dragofix
+GOT WHO: [Dragofix]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid51523 handshake/community/noeatnosleep karatkievich.freenode.net noeatnosleep H :0 noeatnosleep
+GOT WHO: [noeatnosleep]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eamonnw iceland.sdf.org verne.freenode.net eamonnw H :0 Unknown
+GOT WHO: [eamonnw]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pi 162-234-33-24.lightspeed.frokca.sbcglobal.net cherryh.freenode.net Bugz H :0 pi
+GOT WHO: [Bugz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~shillosop unaffiliated/shillosopher orwell.freenode.net shillobear H :0 shillosopher
+GOT WHO: [shillobear]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~goiko unaffiliated/goiko orwell.freenode.net goiko H :0 goiko
+GOT WHO: [goiko]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~carbolyme 52.174.108.196 barjavel.freenode.net carbolymer H :0 Matthijs
+GOT WHO: [carbolymer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tylerdmac pool-98-116-102-65.nycmny.fios.verizon.net karatkievich.freenode.net tylerdmace H :0 Tyler Mace
+GOT WHO: [tylerdmace]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~yo 63.147.87.170 tolkien.freenode.net jchysk H :0 Yo Sub Kwon
+GOT WHO: [jchysk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~zivl 2601:19a:837f:e4e1:51c7:4233:f9a2:9ff0 leguin.freenode.net zivl H :0 zivl
+GOT WHO: [zivl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Thunderbi 2600:8801:3509:6f00:6d8a:a0f9:b4ca:5bc2 livingstone.freenode.net peyman801 H :0 peyman801
+GOT WHO: [peyman801]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thorne ircbox.tornevall.net sinisalo.freenode.net Tornevall H :0 T.T.
+GOT WHO: [Tornevall]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~GrimKrieg a79-168-187-213.cpe.netcabo.pt sinisalo.freenode.net GrimKriegor G :0 Grim Kriegor
+GOT WHO: [GrimKriegor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~beggarman 198.20.115.196 leguin.freenode.net beggarman G :0 George S.
+GOT WHO: [beggarman]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin dubrock gateway/vpn/privateinternetaccess/dubrock cherryh.freenode.net levite H :0 Textual User
+GOT WHO: [levite]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gohyda 45.32.239.190 barjavel.freenode.net gohyda H :0 gohyda
+GOT WHO: [gohyda]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~modin h-6-164.A444.priv.bahnhof.se weber.freenode.net modin G :0 Got ZNC?
+GOT WHO: [modin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid29986 gateway/web/irccloud.com/x-xvhqfiotyuhefvod wolfe.freenode.net TheRealJohnGalt H :0 JohnGalt
+GOT WHO: [TheRealJohnGalt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel robopoly/beraud kornbluth.freenode.net wagaf H :0 wagaf
+GOT WHO: [wagaf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Okinz c-73-77-178-246.hsd1.tx.comcast.net weber.freenode.net Okinz H :0 Okinz
+GOT WHO: [Okinz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~harrymm 104.207.83.10 verne.freenode.net harrymm H :0 KVIrc 4.9.3 Aria http://kvirc.net/
+GOT WHO: [harrymm]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sword_smit bitcoinfundamentals.org barjavel.freenode.net sword_smith H :0 Thorkil Værge
+GOT WHO: [sword_smith]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Ian unaffiliated/ian/x-2884078 leguin.freenode.net Ian` H :0 meh.
+GOT WHO: [Ian`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin red gateway/shell/elitebnc/x-rkyssmpiztpfuziy tolkien.freenode.net red-001 G :0 red-001@EliteBnc
+GOT WHO: [red-001]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tls nex2586334.lnk.telstra.net verne.freenode.net Saad_ H :0 Saad
+GOT WHO: [Saad_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~libertas a95-94-50-210.cpe.netcabo.pt verne.freenode.net libertas H :0 Unknown
+GOT WHO: [libertas]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~laptop 79-73-185-29.dynamic.dsl.as9105.com kornbluth.freenode.net JackH H :0 realname
+GOT WHO: [JackH]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Emcy unaffiliated/emcy orwell.freenode.net Emcy H :0 realname
+GOT WHO: [Emcy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Chel unaffiliated/rusalex adams.freenode.net RusAlex H :0 Chel
+GOT WHO: [RusAlex]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~noturboo i.am.phantas.tk hobana.freenode.net torchic_____ H :0 jus dis gurl, u kno?
+GOT WHO: [torchic_____]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~vOYtEC nat1-za01.vmpanel.net adams.freenode.net vOYtEC_ H :0 vOYtEC
+GOT WHO: [vOYtEC_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/twistedline hitchcock.freenode.net twistedline G :0 twistedline
+GOT WHO: [twistedline]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~datajerk sense.net leguin.freenode.net datajerk H :0 datajerk
+GOT WHO: [datajerk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bt unaffiliated/billymeter barjavel.freenode.net bt H :0 bt
+GOT WHO: [bt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dustinm 68.ip-149-56-14.net tolkien.freenode.net dustinm` H :0 dustinm
+GOT WHO: [dustinm`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~foul_owl 75-172-108-114.tukw.qwest.net barjavel.freenode.net foul_owl H :0 foul_owl
+GOT WHO: [foul_owl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~anton 2604:a880:1:20::22a:a001 karatkievich.freenode.net antonmpeg G :0 anton
+GOT WHO: [antonmpeg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kuldeep unaffiliated/kuldeepdhaka leguin.freenode.net kuldeep H :0 Kuldeep Singh Dhaka
+GOT WHO: [kuldeep]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pheonix99 unaffiliated/pheonix991 livingstone.freenode.net pheonix991 G :0 pheonix991
+GOT WHO: [pheonix991]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ap0calyps unaffiliated/ap0calypse cherryh.freenode.net ap0calypse H :0 Unknown
+GOT WHO: [ap0calypse]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~RaTTuSBIG 37.152-253-62.static.virginmediabusiness.co.uk orwell.freenode.net RaTTuS|BIG H :0 ...
+GOT WHO: [RaTTuS|BIG]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel fsf/member/hays tolkien.freenode.net hays H :0 hays
+GOT WHO: [hays]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~M6HZ mar75-4-82-230-46-11.fbx.proxad.net leguin.freenode.net M6HZ H :0 M6HZ
+GOT WHO: [M6HZ]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid95325 gateway/web/irccloud.com/x-ebwzjzcqvcyuzgtl adams.freenode.net hsmiths H :0 hsmiths
+GOT WHO: [hsmiths]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~f LFbn-1-6903-178.w90-120.abo.wanadoo.fr verne.freenode.net FloTiX H :0 flotix
+GOT WHO: [FloTiX]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~franbird op114.fastshell.pl livingstone.freenode.net franbird H :0 franbird
+GOT WHO: [franbird]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~noodle 2600:1f14:45f:7d01:d89f:3ec3:2c4:c50f karatkievich.freenode.net noodle G :0 noodle
+GOT WHO: [noodle]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ShapeShif unaffiliated/shapeshifter499 karatkievich.freenode.net ShapeShifter499 H :0 Raansu
+GOT WHO: [ShapeShifter499]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hfenring unaffiliated/hasimir roddenberry.freenode.net Hasimir G :0 Hasimir Fenring
+GOT WHO: [Hasimir]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dgenr8 unaffiliated/dgenr8 cherryh.freenode.net dgenr8 H :0 dgenr8
+GOT WHO: [dgenr8]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ryan 2a01:4f9:2a:251b::2 wolfe.freenode.net ry4nn H :0 ryan
+GOT WHO: [ry4nn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~erik mail.geiger-online.ch verne.freenode.net ege H :0 Erik
+GOT WHO: [ege]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dragonlor 67.205.194.123 karatkievich.freenode.net dragnlord H :0 ...
+GOT WHO: [dragnlord]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sldetrack 71.164.133.66 rajaniemi.freenode.net sidetrack H :0 realname
+GOT WHO: [sidetrack]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dlking c-107-4-31-208.hsd1.mi.comcast.net livingstone.freenode.net dlking G :0 David King
+GOT WHO: [dlking]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cereal780 static-68-235-41-225.cust.tzulo.com orwell.freenode.net cereal7802 G :0 Some Guy
+GOT WHO: [cereal7802]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin munson S0106b4750e651c20.cc.shawcable.net weber.freenode.net EvilEmpire H :0 Berserker
+GOT WHO: [EvilEmpire]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DTZUZO S0106bcd16584b0aa.vs.shawcable.net barjavel.freenode.net DTZUZO H :0 DTZUZU
+GOT WHO: [DTZUZO]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thermoman wtf.foobar0815.de kornbluth.freenode.net thermoman H :0 Marcel Meckel
+GOT WHO: [thermoman]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nullptr| ip-94-113-103-134.net.upcbroadband.cz kornbluth.freenode.net nullptr| H :0 nullptr|
+GOT WHO: [nullptr|]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~disc unaffiliated/niab leguin.freenode.net niab H :0 none
+GOT WHO: [niab]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jkup gateway/tor-sasl/jkup zettel.freenode.net jkup H :0 📎
+GOT WHO: [jkup]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~clown unaffiliated/clown/x-0272709 cherryh.freenode.net |Clown| H :0 Clown
+GOT WHO: [|Clown|]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cronoh c-73-241-204-56.hsd1.ca.comcast.net kornbluth.freenode.net asteele G :0 Andrew Steele
+GOT WHO: [asteele]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~john static-100-38-11-146.nycmny.fios.verizon.net leguin.freenode.net jnewbery H :0 John Newbery
+GOT WHO: [jnewbery]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tombusby gateway/tor-sasl/tombusby zettel.freenode.net tombusby H :0 Tom Busby
+GOT WHO: [tombusby]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~daer gateway/tor-sasl/daer zettel.freenode.net ghost43 H :0 realname
+GOT WHO: [ghost43]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~visix gateway/tor-sasl/visip zettel.freenode.net visip H :0 visix
+GOT WHO: [visip]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jcarr 2605:e000:d526:a000:19ac:6c8d:2c2f:6df1 livingstone.freenode.net jcarr H :0 jcarr@wit.com
+GOT WHO: [jcarr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~AcerBoson unaffiliated/higgspossum roddenberry.freenode.net HiggsPossum H :0 AcerBoson
+GOT WHO: [HiggsPossum]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~SirKatar 213.152.162.15 adams.freenode.net SirKatar H :0 realname
+GOT WHO: [SirKatar]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lumos 2001:818:deef:7200:96c6:91ff:fe10:d6bd livingstone.freenode.net luminoso H :0 lumos
+GOT WHO: [luminoso]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nobody unaffiliated/fiet kornbluth.freenode.net fiet G :0 Fiet
+GOT WHO: [fiet]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DB 2601:187:8400:5::90 leguin.freenode.net Qatz H :0 DB
+GOT WHO: [Qatz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin wtf unaffiliated/bl00dn1nj4 wolfe.freenode.net bloodninja H :0 themorethingschangethemoretheystaythesame
+GOT WHO: [bloodninja]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin coinsmurf 96-66-250-198-static.hfc.comcastbusiness.net cherryh.freenode.net coinsmurf H :0 ...
+GOT WHO: [coinsmurf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~null unaffiliated/madars verne.freenode.net Madars H :0 Madars
+GOT WHO: [Madars]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~HugsNotDr 65.102.48.5 tolkien.freenode.net HugsNotDrugs G :0 HugsNotDrugs
+GOT WHO: [HugsNotDrugs]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~deadhand kntaon1614w-lp140-05-64-231-106-169.dsl.bell.ca weber.freenode.net Deadhand H :0 deadhand
+GOT WHO: [Deadhand]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~wk unaffiliated/wizkid057 weber.freenode.net wizkid057 H@ :0 wk
+GOT WHO: [wizkid057]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 50-39-181-8.bvtn.or.frontiernet.net cherryh.freenode.net Tank_Master H :0 Tank
+GOT WHO: [Tank_Master]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~RevZempoe 99-45-69-46.lightspeed.rlghnc.sbcglobal.net cherryh.freenode.net RevZempoe H :0 Reverend Zempoe D'Angelis
+GOT WHO: [RevZempoe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Kev donk.hlekkir.is leguin.freenode.net Kev- H :0 Kebab Bob
+GOT WHO: [Kev-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~coeus ipservice-092-209-111-252.092.209.pools.vodafone-ip.de hitchcock.freenode.net coeus H :0 Marc A. Ziegert
+GOT WHO: [coeus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~compuguy ec2-34-193-165-89.compute-1.amazonaws.com tolkien.freenode.net compuguy H :0 compuguy
+GOT WHO: [compuguy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ap4lmtree unaffiliated/ap4lmtree orwell.freenode.net ap4lmtree H :0 ap4lmtree
+GOT WHO: [ap4lmtree]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin tom freenode/staff/tomaw orwell.freenode.net tomaw H :0 Tom Wesley <tomaw@freenode.net>
+GOT WHO: [tomaw]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~wirehead 24-207-71-163.eastlink.ca weber.freenode.net wirehead H :0 realname
+GOT WHO: [wirehead]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ryn1x c-73-242-224-183.hsd1.nm.comcast.net orwell.freenode.net ryn1x H :0 ryn1x
+GOT WHO: [ryn1x]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kiwi manu.backend.hamburg kornbluth.freenode.net flyingkiwi G :0 flyingkiwi
+GOT WHO: [flyingkiwi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~User 133-203.dorm.ncu.edu.tw hobana.freenode.net ken2812221 H :0 realname
+GOT WHO: [ken2812221]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kujo 159.65.73.100 weber.freenode.net kujo H :0 kujo
+GOT WHO: [kujo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/javi404 orwell.freenode.net javi404 H :0 javi404
+GOT WHO: [javi404]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DeviaVir 182-204-145-85.ftth.glasoperator.nl weber.freenode.net DeviaVir G :0 Chase
+GOT WHO: [DeviaVir]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~x-warrior unaffiliated/x-warrior barjavel.freenode.net x-warrior G :0 a
+GOT WHO: [x-warrior]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fag 12.smos-linux.org verne.freenode.net gaf_ G :0 fag
+GOT WHO: [gaf_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Macuser gateway/shell/panicbnc/x-tdxbscwaoeccbboh adams.freenode.net Guest96031 H :0 Macuser
+GOT WHO: [Guest96031]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~wagoo 89.28.77.83.dynamic.wline.res.cust.swisscom.ch hobana.freenode.net oogaw H :0 Strumpet apples on a warp pie tangent
+GOT WHO: [oogaw]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cryptodec host86-142-164-138.range86-142.btcentralplus.com verne.freenode.net cryptodechange H :0 Crypto de Change
+GOT WHO: [cryptodechange]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~owensr 185.9.34.66 hitchcock.freenode.net n1bor H :0 owensr
+GOT WHO: [n1bor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cluelessp unaffiliated/cluelessperson leguin.freenode.net cluelessperson G :0 cluelessperson
+GOT WHO: [cluelessperson]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~puddinpop unaffiliated/puddinpop wolfe.freenode.net puddinpop H :0 puddinpop
+GOT WHO: [puddinpop]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid219675 gateway/web/irccloud.com/x-pokmkpoustjbferz leguin.freenode.net ErgoX__ H :0 zoop
+GOT WHO: [ErgoX__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin chawk 67-61-223-2.cpe.cableone.net hobana.freenode.net cHawk H :0 realname
+GOT WHO: [cHawk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DoDa c-73-157-232-58.hsd1.or.comcast.net cherryh.freenode.net Serendipity H :0 realname
+GOT WHO: [Serendipity]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~B0g4r7 199.87.197.61 kornbluth.freenode.net B0g4r7__ H :0 realname
+GOT WHO: [B0g4r7__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~UNIcodeX unaffiliated/unicodex weber.freenode.net UNIcodeX_ H :0 realname
+GOT WHO: [UNIcodeX_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid21333 gateway/web/irccloud.com/x-yhyhahwwcvaqruwx livingstone.freenode.net OGF H :0 OGF
+GOT WHO: [OGF]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin xeno technetium.toolsnbots.de verne.freenode.net Xenogenesis G :0 xeno
+GOT WHO: [Xenogenesis]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~phebus c-68-57-68-149.hsd1.tn.comcast.net tolkien.freenode.net phebus H :0 Jonathan Phebus
+GOT WHO: [phebus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~soma 2a03:4000:6:3113::112 livingstone.freenode.net soma H :0 soma
+GOT WHO: [soma]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chachasmo unaffiliated/chachasmooth sinisalo.freenode.net chachasmooth H :0 chachasmooth
+GOT WHO: [chachasmooth]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ueberall unaffiliated/ueberall cherryh.freenode.net uebera|| H :0 Markus Ueberall
+GOT WHO: [uebera||]  decode failed
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin erska 91-156-248-208.elisa-laajakaista.fi barjavel.freenode.net erska H :0 Sami Holopainen
+GOT WHO: [erska]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kabaum h-13-35.A163.priv.bahnhof.se orwell.freenode.net kabaum H :0 Kalle Rosenbaum
+GOT WHO: [kabaum]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~annoying unaffiliated/thefam leguin.freenode.net m712 H :0 Now with 100% more annoying.
+GOT WHO: [m712]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~j416 unaffiliated/j416 niven.freenode.net j416 H :0 Got ZNC?
+GOT WHO: [j416]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin paris2013 perso.iiens.net wolfe.freenode.net Ed0 H :0 ted
+GOT WHO: [Ed0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ak102 code-gray.psychos.is moon.freenode.net Code-Gray G :0 code-gray
+GOT WHO: [Code-Gray]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin wario distribution.xbins.org verne.freenode.net Iriez H :0 iriez
+GOT WHO: [Iriez]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin metro unaffiliated/napo1eon orwell.freenode.net napo1eon H :0 streetrock0r
+GOT WHO: [napo1eon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Flonk ec2-52-40-29-25.us-west-2.compute.amazonaws.com weber.freenode.net Flonk H :0 Flonk
+GOT WHO: [Flonk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ff adsl201-232-238-252.epm.net.co hitchcock.freenode.net ekrion H :0 ff
+GOT WHO: [ekrion]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aloril 80.246.146.6 verne.freenode.net aloril H :0 Aloril
+GOT WHO: [aloril]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~djoot unaffiliated/djoot barjavel.freenode.net djoot H :0 Unknown
+GOT WHO: [djoot]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Dan znc.danscomp.net barjavel.freenode.net Dan_au H :0 Dan
+GOT WHO: [Dan_au]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin hiya gateway/shell/qz/x-ivoasexfrbgrianj wilhelm.freenode.net hiya H :0 hiya
+GOT WHO: [hiya]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~OPK unaffiliated/opk weber.freenode.net OPK H :0 opk
+GOT WHO: [OPK]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Willis 107.161.160.241 wolfe.freenode.net Willis H :0 Willis
+GOT WHO: [Willis]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Max unaffiliated/commvenus weber.freenode.net CommVenus H :0 CommanderVenus
+GOT WHO: [CommVenus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Infinzors 24-207-77-130.eastlink.ca sinisalo.freenode.net Infinity8 H :0 realname
+GOT WHO: [Infinity8]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin galeido unaffiliated/galeido barjavel.freenode.net galeido G :0 Pekka Leppänen
+GOT WHO: [galeido]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Belxjande sourcemage/Mage/Abh-Elementalist orwell.freenode.net Belxjander H :0 AbH Belxjander Draconis Serechai
+GOT WHO: [Belxjander]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Bathmat 99-16-139-162.lightspeed.austtx.sbcglobal.net karatkievich.freenode.net Bathmat G :0 Jeff
+GOT WHO: [Bathmat]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 65.246.43.226 cherryh.freenode.net Apocx H :0 Apocx
+GOT WHO: [Apocx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin mrloafbot gateway/vpn/privateinternetaccess/mrloafbot/x-21948472 hitchcock.freenode.net Mrloafbot_ G :0 mrloafbot
+GOT WHO: [Mrloafbot_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~uwishuno unaffiliated/uwishuno leguin.freenode.net uwishuno H :0 uwishuno
+GOT WHO: [uwishuno]  decode failed
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Quito ns378912.ip-5-196-69.eu cherryh.freenode.net Quito H :0 Quito
+GOT WHO: [Quito]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~yox unaffiliated/yo/x-4076042 barjavel.freenode.net `yo H :0 yox
+GOT WHO: [`yo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~AdamPC cpc139184-sprt3-2-0-cust175.17-2.cable.virginm.net weber.freenode.net ggg H :0 realname
+GOT WHO: [ggg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Toot unaffiliated/toottoot222 leguin.freenode.net Tootoot222 H :0 Tootoot222
+GOT WHO: [Tootoot222]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin spooky 01111010.01101110.01100011.firrre.com livingstone.freenode.net spooky H :0 spooky
+GOT WHO: [spooky]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~TheLive1 unaffiliated/thelive1 kornbluth.freenode.net TheLive1 H :0 Got ZNC?
+GOT WHO: [TheLive1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin nchambers learnprogramming/staff/nchambers tolkien.freenode.net telnet H :0 The official freenode bartender
+GOT WHO: [telnet]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~root h-205-67.A357.priv.bahnhof.se karatkievich.freenode.net robanswe H :0 root
+GOT WHO: [robanswe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fatalhalt c-67-163-60-93.hsd1.il.comcast.net wolfe.freenode.net fatalhalt G :0 realname
+GOT WHO: [fatalhalt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~john unaffiliated/johntramp orwell.freenode.net johntramp H :0 john
+GOT WHO: [johntramp]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~g wikimedia/Petrb hobana.freenode.net petan G :0 Petr Bena - https://github.com/grumpy-irc/grumpy
+GOT WHO: [petan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 195.148.220.32 livingstone.freenode.net lari_ H :0 Lari Taskula
+GOT WHO: [lari_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mike c-71-228-54-149.hsd1.in.comcast.net livingstone.freenode.net koshii H :0 koshii
+GOT WHO: [koshii]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Elite21152 gateway/shell/elitebnc/x-rlobwvehspdeyonk wolfe.freenode.net ibttis H :0 Using EliteBNC, I'm part of the elite!
+GOT WHO: [ibttis]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin unknown 2604:180::7d9b:354f rajaniemi.freenode.net flotwig G :0 .
+GOT WHO: [flotwig]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin aj cerulean.erisian.com.au kornbluth.freenode.net aj H :0 Anthony Towns
+GOT WHO: [aj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin skarn gateway/shell/firrre/x-oguuhtyrssbvbcpj verne.freenode.net Guest5068 H :0 skarn
+GOT WHO: [Guest5068]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nirved 2a02:8071:b58a:3c00:e8d8:4533:826d:46ae adams.freenode.net nirved H :0 Hristo Gueorguiev
+GOT WHO: [nirved]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~EastByte eastbit.net verne.freenode.net EastByte H :0 EastByte
+GOT WHO: [EastByte]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nobody ns387400.ip-5-196-71.eu livingstone.freenode.net ne1 H :0 sorry
+GOT WHO: [ne1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~anony ns379328.ip-151-80-32.eu wilhelm.freenode.net broccolistem H :0 anony
+GOT WHO: [broccolistem]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tr4sk tony.biboum.fr cherryh.freenode.net tr4sk H :0 Unknown
+GOT WHO: [tr4sk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin mniip freenode/staff/mniip leguin.freenode.net mniip H :0 mniip
+GOT WHO: [mniip]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin twenty 75-149-171-58-Washington.hfc.comcastbusiness.net barjavel.freenode.net BGL H :0 BGLWrK
+GOT WHO: [BGL]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bauerj unaffiliated/bauerj orwell.freenode.net bauerj G :0 bauerj
+GOT WHO: [bauerj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DarkPlace unaffiliated/darkplace orwell.freenode.net DarkPlace H :0 DarkPlace
+GOT WHO: [DarkPlace]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Taylor unaffiliated/taylor karatkievich.freenode.net Taylor H :0 Taylor
+GOT WHO: [Taylor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~owlhooter unaffiliated/owlhooter barjavel.freenode.net owlhooter H :0 ...
+GOT WHO: [owlhooter]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~zerymo unaffiliated/zerymo hobana.freenode.net zerymo H :0 zerymo
+GOT WHO: [zerymo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ashton unaffiliated/ecx kornbluth.freenode.net ecx H :0 ashton
+GOT WHO: [ecx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Alien unaffiliated/alientrooper hobana.freenode.net AlienTrooper H :0 Vires in Numeris
+GOT WHO: [AlienTrooper]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~wosid unaffiliated/wosctlup hobana.freenode.net wosctlup H :0 wos
+GOT WHO: [wosctlup]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bildramer p2E514D92.dip0.t-ipconnect.de leguin.freenode.net bildramer H :0 ...
+GOT WHO: [bildramer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~weechat unaffiliated/ikant verne.freenode.net iKant_ H :0 weechat
+GOT WHO: [iKant_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~n35xdxb0 cpc130684-camd16-2-0-cust846.know.cable.virginm.net verne.freenode.net n35xdxb0 H :0 n35xdxb0
+GOT WHO: [n35xdxb0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~arooni li1062-244.members.linode.com kornbluth.freenode.net arooni H :0 ZNC Arooni
+GOT WHO: [arooni]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chu unaffiliated/chu hobana.freenode.net chu H :0 Matthew Ball
+GOT WHO: [chu]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rasb 195.99.134.162 verne.freenode.net rasb H :0 realname
+GOT WHO: [rasb]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~transiti0 server397.seedhost.eu kornbluth.freenode.net cl0udl1ne H :0 Got ZNC?
+GOT WHO: [cl0udl1ne]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~no unaffiliated/naf wilhelm.freenode.net naf G :0 WHOIS URSELF
+GOT WHO: [naf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jkister pool-98-115-251-214.phlapa.fios.verizon.net kornbluth.freenode.net jkister H :0 ...
+GOT WHO: [jkister]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin nobody 208.76.201.166 barjavel.freenode.net B0g4r7_ H :0 realname
+GOT WHO: [B0g4r7_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jeffree unaffiliated/jeffree livingstone.freenode.net jeffree H :0 realname
+GOT WHO: [jeffree]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nickware unaffiliated/nickware orwell.freenode.net nickware-idle H :0 Nick.  My contact details: http://goo.gl/M02Yd
+GOT WHO: [nickware-idle]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin extor unaffiliated/extor verne.freenode.net extorr H :0 extor
+GOT WHO: [extorr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bobvador 139.99.103.132 karatkievich.freenode.net bobvador H :0 Zoltan
+GOT WHO: [bobvador]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ruid unaffiliated/ruid orwell.freenode.net ruid H :0 realname
+GOT WHO: [ruid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~clintar 68.69.164.130 hobana.freenode.net clintar H :0 realname
+GOT WHO: [clintar]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~me wikipedia/Crazycomputers leguin.freenode.net SerajewelKS H :0 Chris Howie
+GOT WHO: [SerajewelKS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel mail.jedimail.de leguin.freenode.net Thalian G :0 Thalian
+GOT WHO: [Thalian]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~knapptime 2604:180:2:1581::58c6 kornbluth.freenode.net knapptime H :0 knapptime
+GOT WHO: [knapptime]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~CtrlC unaffiliated/ctrlc wolfe.freenode.net CtrlC H :0 CtrlC
+GOT WHO: [CtrlC]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~botho 82.212.171.116 rajaniemi.freenode.net botho H :0 both
+GOT WHO: [botho]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rtgnx 51.15.89.67 verne.freenode.net rtgnx H :0 Unknown
+GOT WHO: [rtgnx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mp 51.15.45.209 orwell.freenode.net secret H :0 d
+GOT WHO: [secret]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fletom 104.163.186.44 weber.freenode.net fletom H :0 fletom
+GOT WHO: [fletom]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Tiraspol unaffiliated/tiraspol barjavel.freenode.net Tiraspol H :0 Tiraspol
+GOT WHO: [Tiraspol]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin fer 90-230-43-84-no122.tbcn.telia.com hitchcock.freenode.net sajfer H :0 mr fer
+GOT WHO: [sajfer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~darvon 107.191.100.185 weber.freenode.net darvon H :0 darvon
+GOT WHO: [darvon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~d1g1t pdpc/supporter/active/d1g1t orwell.freenode.net sandeep_ H :0 Poor Farmer
+GOT WHO: [sandeep_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~onthelawn unaffiliated/tardybaker hitchcock.freenode.net tardybaker G :0 tardybaker
+GOT WHO: [tardybaker]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Soligor unaffiliated/soligor hobana.freenode.net Soligor H :0 Soligor
+GOT WHO: [Soligor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~roy a80-100-203-151.adsl.xs4all.nl orwell.freenode.net Grouver H :0 Roy van Zanten
+GOT WHO: [Grouver]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~arch unaffiliated/avenger hobana.freenode.net avenger H :0 Spin iT
+GOT WHO: [avenger]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin quassel 2600:3c03::f03c:91ff:fe7b:78d1 wolfe.freenode.net harding H :0 David A. Harding
+GOT WHO: [harding]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ctrlbreak fctnnbsc38w-47-55-95-227.dhcp-dynamic.fibreop.nb.bellaliant.net karatkievich.freenode.net ctrlbreak H :0 realname
+GOT WHO: [ctrlbreak]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cyphase unaffiliated/cyphase niven.freenode.net cyphase H :0 Cyphase
+GOT WHO: [cyphase]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ProfMac 2001:470:1f0f:226:bdd3:ce37:4ee8:25fe karatkievich.freenode.net ProfMac H :0 Aubrey McIntosh
+GOT WHO: [ProfMac]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Cory unaffiliated/cory verne.freenode.net Cory H :0 ...
+GOT WHO: [Cory]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jpt classified.name orwell.freenode.net JPT H :0 Jan Philipp Timme
+GOT WHO: [JPT]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dave_uy 108.61.193.26 rajaniemi.freenode.net dave_uy H :0 David Parrish
+GOT WHO: [dave_uy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jimpo ec2-34-211-143-113.us-west-2.compute.amazonaws.com niven.freenode.net jimpo H :0 jimpo
+GOT WHO: [jimpo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~weechat_u ec2-54-218-50-75.us-west-2.compute.amazonaws.com cherryh.freenode.net lrvick H :0 lrvick
+GOT WHO: [lrvick]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~EricJD 173-23-46-82.client.mchsi.com weber.freenode.net EricJD H :0 EricJD
+GOT WHO: [EricJD]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~meLon c-71-193-137-184.hsd1.or.comcast.net weber.freenode.net meLon H :0 meLon
+GOT WHO: [meLon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~heap localhost.sk orwell.freenode.net heap_ H :0 Unknown
+GOT WHO: [heap_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fnb_theor 138.68.70.40 niven.freenode.net fnb_theory H :0 fnb
+GOT WHO: [fnb_theory]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel pool-96-253-50-155.prvdri.fios.verizon.net hitchcock.freenode.net finlstrm H :0 Michael J. Ford
+GOT WHO: [finlstrm]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~PLAYER_1 fancydata.science orwell.freenode.net inoperable H :0 What are you lookin at?
+GOT WHO: [inoperable]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Kralle freaxnet.de livingstone.freenode.net Kralle G :0 Kralle
+GOT WHO: [Kralle]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~BT pdpc/supporter/professional/bitplane moon.freenode.net BaggaTea H :0 Trouble
+GOT WHO: [BaggaTea]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin taz gateway/shell/elitebnc/x-vzlhahzywaxopyld hitchcock.freenode.net TaZeR H :0 TaZeR
+GOT WHO: [TaZeR]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gregman_ 45.77.145.29 orwell.freenode.net gregman_ H :0 Greg
+GOT WHO: [gregman_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~xuu dosha.mtr.sour.is hitchcock.freenode.net xuu G :0 Xuu
+GOT WHO: [xuu]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~potus ip68-1-165-30.ri.ri.cox.net verne.freenode.net potus H :0 Potus
+GOT WHO: [potus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~toto drupal.org/user/146860/view tolkien.freenode.net TheRec H :0 TheRec
+GOT WHO: [TheRec]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin catalase gateway/shell/elitebnc/x-tbulfdmjiqmchfog hitchcock.freenode.net catalase H :0 catalase
+GOT WHO: [catalase]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin iris znc.cloudminr.com weber.freenode.net inhiding H :0 Got ZNC?
+GOT WHO: [inhiding]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Jen regi.rocks verne.freenode.net Jenetrix H :0 Jenetrix
+GOT WHO: [Jenetrix]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ianthius unaffiliated/ianthius hobana.freenode.net ianthius H :0 ianthius
+GOT WHO: [ianthius]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~magma magma.tokyo roddenberry.freenode.net Magma H :0 Magma Hindenburg
+GOT WHO: [Magma]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sss action.northnook.ca roddenberry.freenode.net Lrs_87 H :0 Lrs_87
+GOT WHO: [Lrs_87]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bashel unaffiliated/bashel roddenberry.freenode.net bashel G :0 bashel
+GOT WHO: [bashel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~swoup unaffiliated/swoup roddenberry.freenode.net swoup H :0 Joe Bloggs
+GOT WHO: [swoup]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~edenist li1007-6.members.linode.com weber.freenode.net edenist H :0 Edward Nist
+GOT WHO: [edenist]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~none HSI-KBW-46-237-219-245.hsi.kabel-badenwuerttemberg.de niven.freenode.net xxyxx H :0 none
+GOT WHO: [xxyxx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Furna 2a03:a140:10:2a7c::1 livingstone.freenode.net Furna G :0 The sky above the port was the color of television
+GOT WHO: [Furna]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Sterl c-73-153-26-15.hsd1.co.comcast.net orwell.freenode.net Sterl G :0 Sterl
+GOT WHO: [Sterl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Evel-Knie d5152f744.static.telenet.be verne.freenode.net Evel-Knievel H :0 Evel-Knievel
+GOT WHO: [Evel-Knievel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Jibbler cpe-24-194-215-43.nycap.res.rr.com orwell.freenode.net Jibbler H :0 Jibbz
+GOT WHO: [Jibbler]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffilated/robink niven.freenode.net robink H :0 Robin Kauffman
+GOT WHO: [robink]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~no2323 c83-251-229-229.bredband.comhem.se orwell.freenode.net f_tick H :0 Got Slack?
+GOT WHO: [f_tick]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Dessimat0 185.14.186.16 weber.freenode.net Dessimat0r G :0 Stewart "ZNC" Patrick Moore
+GOT WHO: [Dessimat0r]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aegis mm.sixtopia.net orwell.freenode.net tec__ H :0 Bjoern Heller
+GOT WHO: [tec__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lachesis unaffiliated/lachesis cherryh.freenode.net lachesis G :0 ems
+GOT WHO: [lachesis]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fckd fckd.us leguin.freenode.net fckd H :0 fckd
+GOT WHO: [fckd]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Dragon ve705.venus.fastwebserver.de hitchcock.freenode.net Dragon092 G :0 Dragon
+GOT WHO: [Dragon092]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dafuq unaffiliated/murrayn tolkien.freenode.net murrayn H :0 realname
+GOT WHO: [murrayn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin el freenode/staff/el cherryh.freenode.net el H :0 el
+GOT WHO: [el]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~deeno unaffiliated/dino82 niven.freenode.net dino82 H :0 din0-freenode
+GOT WHO: [dino82]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin guideline gateway/vpn/privateinternetaccess/guideline adams.freenode.net guideline H :0 realname
+GOT WHO: [guideline]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin zero-one unaffiliated/metanova sinisalo.freenode.net MetaNova G :0 zero-one
+GOT WHO: [MetaNova]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~garphy finn.zone84.net orwell.freenode.net garphy`aw H :0 garphy
+GOT WHO: [garphy`aw]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cryptapus unaffiliated/cryptapus niven.freenode.net cryptapus H :0 cryptapus
+GOT WHO: [cryptapus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gridrun 80-219-49-141.dclient.hispeed.ch moon.freenode.net niston H :0 smooth criminal
+GOT WHO: [niston]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 203.86.206.137 karatkievich.freenode.net Dev91 G :0 Devon
+GOT WHO: [Dev91]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin hctib gateway/shell/elitebnc/x-gbkjpuzkllxbmusk hobana.freenode.net bitch H :0 Bitch please.
+GOT WHO: [bitch]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fredrin moshpit02.copyleft.no sinisalo.freenode.net fredrin H :0 Fredrik Normann
+GOT WHO: [fredrin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~madduck debian/developer/madduck hobana.freenode.net madduck H :0 martin f krafft, 0x55c9882d999bbcc4, @martinkrafft
+GOT WHO: [madduck]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dxrt unaffiliated/dxrt niven.freenode.net dxrt G :0 dxrt
+GOT WHO: [dxrt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gallomimi S010684948cbeac73.ca.shawcable.net verne.freenode.net Gallomimia H :0 Gallomimia
+GOT WHO: [Gallomimia]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin eth1 xbtc.trade karatkievich.freenode.net eth1-work H :0 ethernet
+GOT WHO: [eth1-work]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sh_smith cpe-76-174-26-91.socal.res.rr.com niven.freenode.net sh_smith G :0 sh_smith
+GOT WHO: [sh_smith]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cornfeedh unaffiliated/cornfeed niven.freenode.net cornfeedhobo H :0 cornfeedhobo
+GOT WHO: [cornfeedhobo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fcanela unaffiliated/fcanela verne.freenode.net fcanela H :0 fcanela,,,
+GOT WHO: [fcanela]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ocb unaffiliated/ocb niven.freenode.net ocb H :0 ocb
+GOT WHO: [ocb]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin gmaxwell wikimedia/KatWalsh/x-0001 verne.freenode.net gmaxwell H :0 Gregory Maxwell
+GOT WHO: [gmaxwell]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~NOsystemd unaffiliated/mailjesus orwell.freenode.net _systemd_is_evil H :0 Systemd is Cancer
+GOT WHO: [_systemd_is_evil]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chojin chojin.wtf orwell.freenode.net Chojin H :0 Gregory Poudrel
+GOT WHO: [Chojin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin jhj prone.ws verne.freenode.net trn H :0 Jeff Johnson
+GOT WHO: [trn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~squid pool-173-48-82-37.bstnma.fios.verizon.net orwell.freenode.net Squidicc H :0 squid
+GOT WHO: [Squidicc]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel wsip-24-234-28-130.lv.lv.cox.net barjavel.freenode.net charims_ H :0 Chad Hirsch
+GOT WHO: [charims_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gallon aftr-109-91-39-187.unity-media.net weber.freenode.net Guest57495 H :0 Unknown
+GOT WHO: [Guest57495]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ric0 23.239.80.28 verne.freenode.net n0rdi H :0 Izzahacker
+GOT WHO: [n0rdi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~neon 176.10.248.200 kornbluth.freenode.net neon_ H :0 Non'Ya Biz
+GOT WHO: [neon_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eblip unaffiliated/eblip verne.freenode.net eblip H :0 eblip
+GOT WHO: [eblip]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~http_ggvg unaffiliated/walt leguin.freenode.net ggVGc H :0 http_ggvgc_com
+GOT WHO: [ggVGc]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~GoMaD 84.201.30.138 leguin.freenode.net GoMaD H :0 GoMaD
+GOT WHO: [GoMaD]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid113387 gateway/web/irccloud.com/x-vgesylwxibuxlibb hobana.freenode.net ibrightly G :0 Ivan Brightly
+GOT WHO: [ibrightly]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin tripty gateway/shell/elitebnc/x-gyutjqnwexzsjlfj adams.freenode.net tripty H :0 Ricky Not Dead
+GOT WHO: [tripty]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bearBeer 112.205.65.239 weber.freenode.net bearBeer G :0 bearBeer
+GOT WHO: [bearBeer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~leon shuzo.dexterous.org livingstone.freenode.net noefk H :0 L
+GOT WHO: [noefk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pilate infoforcefeed/pilate moon.freenode.net Pilate H :0 Bentham
+GOT WHO: [Pilate]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~andy 2602:3f:e475:6199:20c:29ff:fe1e:462 adams.freenode.net andyo G :0 Got ZNC?
+GOT WHO: [andyo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ld 70147.numbersstation.org kornbluth.freenode.net Old_Man H :0 Unknown
+GOT WHO: [Old_Man]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sericon unaffiliated/sericon verne.freenode.net sericon G :0 Klaatu barada nikto
+GOT WHO: [sericon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pystar89 ip5b432207.dynamic.kabel-deutschland.de cherryh.freenode.net pystar89 H :0 jannik mueller
+GOT WHO: [pystar89]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Akihabara static.163.101.201.195.clients.your-server.de kornbluth.freenode.net Akihabara H :0 ...
+GOT WHO: [Akihabara]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~markus server01.comtime-it.eu rajaniemi.freenode.net markus-k G :0 markus
+GOT WHO: [markus-k]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Michail michail.com hobana.freenode.net M1 H :0 Michail
+GOT WHO: [M1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Aristide 2001:41d0:1:8a16::1 leguin.freenode.net Aristide G :0 Non
+GOT WHO: [Aristide]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~webdawg officialg0d.com weber.freenode.net WebDawg H :0 webdawg
+GOT WHO: [WebDawg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kris unaffiliated/kriskropd barjavel.freenode.net kriskropd H :0 kris
+GOT WHO: [kriskropd]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ShellcatZ cpe-66-27-89-254.san.res.rr.com leguin.freenode.net ShellcatZero H :0 John Shepherd
+GOT WHO: [ShellcatZero]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~codebam unaffiliated/codebam weber.freenode.net codebam G :0 codebam
+GOT WHO: [codebam]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jcorgan unaffiliated/jcorgan niven.freenode.net jcorgan H :0 Johnathan Corgan
+GOT WHO: [jcorgan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cinch 45.55.10.220 verne.freenode.net pelegreno H :0 cinch
+GOT WHO: [pelegreno]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~triplesla unaffiliated/imsaguy cherryh.freenode.net tripleslash H :0 ...
+GOT WHO: [tripleslash]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin cschneid 2600:3c00::f03c:91ff:fe73:9540 moon.freenode.net cschneid H :0 cschneid
+GOT WHO: [cschneid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~abracadan 195.140.135.171 leguin.freenode.net abracadaniel G :0 abracadaniel
+GOT WHO: [abracadaniel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nimbleark unaffiliated/nimbleark orwell.freenode.net nimbleark H :0 nimbleark
+GOT WHO: [nimbleark]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~psilonux gateway/tor-sasl/psilonux zettel.freenode.net psilonux H :0 psilonux
+GOT WHO: [psilonux]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin swords gateway/shell/panicbnc/x-gemcrpnktddsdaar moon.freenode.net swords H :0 swords
+GOT WHO: [swords]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gwillen unaffiliated/gwillen moon.freenode.net gwillen H :0 Glenn Willen
+GOT WHO: [gwillen]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~p8m 104.166.238.6 hobana.freenode.net p8m H :0 Dave
+GOT WHO: [p8m]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ossifrage unaffiliated/ossifrage hobana.freenode.net ossifrage H :0 Squeamish Ossifrage
+GOT WHO: [ossifrage]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~NotInTheM unaffiliated/olufunmilayo verne.freenode.net NotInTheMood H :0 NotInTheMood
+GOT WHO: [NotInTheMood]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~devon pool-71-172-17-7.nwrknj.fios.verizon.net leguin.freenode.net thddx H :0 devon
+GOT WHO: [thddx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~clash c-67-170-52-226.hsd1.wa.comcast.net weber.freenode.net fireduck H :0 Fireduck
+GOT WHO: [fireduck]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~shiinko 151.80.78.204 niven.freenode.net shiinko G :0 shiinko
+GOT WHO: [shiinko]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~shoogz unaffiliated/shoogz niven.freenode.net shoogz H :0 shoogz
+GOT WHO: [shoogz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~passOe unaffiliated/passoe moon.freenode.net aOssed H :0 Max Mustermann
+GOT WHO: [aOssed]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin hornd unaffiliated/synx/x-4957395 moon.freenode.net synx H :0 hornd
+GOT WHO: [synx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~azizLIGHT unaffiliated/azizlight moon.freenode.net azizLIGHT H :0 azizLIGHT
+GOT WHO: [azizLIGHT]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel dc.esilibrary.com leguin.freenode.net cesardv H :0 Cesar Velez
+GOT WHO: [cesardv]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin acetakwas gateway/shell/xshellz/x-yrjbykjoiznegatk leguin.freenode.net acetakwas H :0 Ace Takwas
+GOT WHO: [acetakwas]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Skilly unaffiliated/skillyonfire leguin.freenode.net SkillyOnFire H :0 The Lounge User
+GOT WHO: [SkillyOnFire]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fullstep 52.144.114.197 niven.freenode.net fullstep H :0 fullstep
+GOT WHO: [fullstep]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Whipstick li916-95.members.linode.com moon.freenode.net Whipstickgostop H :0 Johnny Extreme
+GOT WHO: [Whipstickgostop]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bumbar unaffiliated/bumbar hobana.freenode.net bumbar__ H :0 realname
+GOT WHO: [bumbar__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin moo unaffiliated/abra0 kornbluth.freenode.net abra0 G :0 abra_abra
+GOT WHO: [abra0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~waxwing 91.216.245.111 moon.freenode.net waxwing H :0 realname
+GOT WHO: [waxwing]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~LuaKT unaffiliated/luakt moon.freenode.net LuaKT G :0 LuaKT
+GOT WHO: [LuaKT]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~badpixel unaffiliated/badpixel verne.freenode.net badpixel H :0 badpixel
+GOT WHO: [badpixel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~zrts unaffiliated/zrts niven.freenode.net zaratustra H :0 93!
+GOT WHO: [zaratustra]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~a5m0 unaffiliated/a5m0 moon.freenode.net a5m0 G :0 a5m0
+GOT WHO: [a5m0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tau neutrino.es hobana.freenode.net clopez G :0 clopez
+GOT WHO: [clopez]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~afx237 107.170.10.178 moon.freenode.net afx237 H :0 c'mon you cunt, lets have some aphex acid
+GOT WHO: [afx237]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~batdog c-73-166-227-96.hsd1.tx.comcast.net niven.freenode.net batdog H :0 Bat.Dog
+GOT WHO: [batdog]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~umpc unaffiliated/umpc hobana.freenode.net umpc H :0 umpc
+GOT WHO: [umpc]  decode failed
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Megumiin unaffiliated/megumiin leguin.freenode.net Megumiin H :0 Megumin
+GOT WHO: [Megumiin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mryandao unaffiliated/mryandao niven.freenode.net mryandao H :0 yandao
+GOT WHO: [mryandao]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin mp aggr.com moon.freenode.net Guest19307 H :0 Mika Pruikkonen
+GOT WHO: [Guest19307]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jason unaffiliated/hereticlocke hobana.freenode.net JasonO H :0 Jason
+GOT WHO: [JasonO]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mkosmo helios.mkosmo.net leguin.freenode.net mkosmo G :0 Matthew Kosmoski
+GOT WHO: [mkosmo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin stonehead 2a01:7e00:e001:3700:6667::2 hobana.freenode.net St0neHead H :0 Steinar Seljevold
+GOT WHO: [St0neHead]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin nix unaffiliated/infernix adams.freenode.net infernix G :0 the funk phenomena
+GOT WHO: [infernix]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~en unaffiliated/ericnoan cherryh.freenode.net ericnoan G :0 ericnoan
+GOT WHO: [ericnoan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 31.25.99.5 weber.freenode.net webhat H :0 Dani�l W. Crompton
+GOT WHO: [webhat]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin janus hapy.0x90.dk barjavel.freenode.net ysangkok H :0 Janus
+GOT WHO: [ysangkok]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/emzy sinisalo.freenode.net Emzy H :0 Emzy
+GOT WHO: [Emzy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~baldur pool-100-2-154-254.nycmny.btas.verizon.net rajaniemi.freenode.net baldur H :0 baldur
+GOT WHO: [baldur]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Tycale tycale.be orwell.freenode.net Tycale H :0 Thibault
+GOT WHO: [Tycale]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin jorik seven.deadlysins.nl orwell.freenode.net jorik H :0 Jorik Schouten
+GOT WHO: [jorik]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~norkle admin.nasa-g0v.com verne.freenode.net norkle H :0 Unknown
+GOT WHO: [norkle]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~xelra unaffiliated/xelra tolkien.freenode.net xelra H :0 Xel'Ra
+GOT WHO: [xelra]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cloud prx-e1-prd-001.logic40.net tolkien.freenode.net jrklein G :0 Jason Klein
+GOT WHO: [jrklein]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cheater unaffiliated/cheater verne.freenode.net cheater H :0 cheater
+GOT WHO: [cheater]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kanzure unaffiliated/kanzure verne.freenode.net kanzure H :0 Bryan Bishop
+GOT WHO: [kanzure]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/krakke sinisalo.freenode.net Krakke H :0 Krakke
+GOT WHO: [Krakke]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin pinne 192.81.221.74 leguin.freenode.net grzs H :0 g
+GOT WHO: [grzs]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nmkr 185.86.151.160 leguin.freenode.net nmkr H :0 nmkr
+GOT WHO: [nmkr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~none 2001:638:a000:4140::ff10:844c rajaniemi.freenode.net _flow__ H :0 none
+GOT WHO: [_flow__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin murph gateway/shell/panicbnc/x-ycglpwloosuobnxm livingstone.freenode.net murph G :0 murph
+GOT WHO: [murph]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin idhanta gateway/shell/panicbnc/x-zthetttypykqkehk livingstone.freenode.net idhanta H :0 idhanta
+GOT WHO: [idhanta]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin naos unaffiliated/timmr hitchcock.freenode.net naos G :0 naos
+GOT WHO: [naos]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin teward ubuntu/member/teward hitchcock.freenode.net teward G :0 Thomas Ward
+GOT WHO: [teward]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~clamp_cla 2a03:b0c0:1:d0::808:1001 kornbluth.freenode.net clampy H :0 clomp clomp
+GOT WHO: [clampy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid124829 gateway/web/irccloud.com/x-wnlvxmzqejayydpq wilhelm.freenode.net selsta H :0 selsta
+GOT WHO: [selsta]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~br0dy br0dy.mooo.com rajaniemi.freenode.net br0dy_ G :0 Got ZNC?
+GOT WHO: [br0dy_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Industria 188.166.92.107 wilhelm.freenode.net Industrial H :0 Industrial
+GOT WHO: [Industrial]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Numline1 unaffiliated/numline1 wilhelm.freenode.net Numline1_ H :0 Anakonda
+GOT WHO: [Numline1_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin jstoker unaffiliated/jstoker wolfe.freenode.net JStoker G :0 JStoker
+GOT WHO: [JStoker]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin shapeless 2001:41d0:401:3100::8a33 livingstone.freenode.net Guest9049 H :0 shapeless
+GOT WHO: [Guest9049]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pepesza 185.83.218.228 barjavel.freenode.net pepesza- G :0 pepesza
+GOT WHO: [pepesza-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~krisha biocyb.org rajaniemi.freenode.net krisha H :0 krisha
+GOT WHO: [krisha]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tweeeaks unaffiliated/tweeeaks orwell.freenode.net tweaks H :0 tweeeaks
+GOT WHO: [tweaks]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tuxx static.80.154.9.176.clients.your-server.de orwell.freenode.net tuxx_ H :0 Unknown
+GOT WHO: [tuxx_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aztec unaffiliated/cojabo wilhelm.freenode.net CoJaBo H :0 aztec
+GOT WHO: [CoJaBo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jcara 188.166.12.223 wilhelm.freenode.net jcara_ H :0 jcara
+GOT WHO: [jcara_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin f00b47 kvirc/developer/Voker57 kornbluth.freenode.net Voker57 H :0 Voker57
+GOT WHO: [Voker57]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid37137 gateway/web/irccloud.com/x-xbpicypsvnkjtpdu adams.freenode.net epic H :0 Bjørn Magnus Mathisen
+GOT WHO: [epic]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid129442 gateway/web/irccloud.com/x-pptglydoyqicaryj sinisalo.freenode.net NicolasDorier H :0 Nicolas Dorier
+GOT WHO: [NicolasDorier]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid11525 gateway/web/irccloud.com/x-tqsmslaonrmhdaad adams.freenode.net EnabrinTain G :0 EnabrinTain
+GOT WHO: [EnabrinTain]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid110431 gateway/web/irccloud.com/x-mnyftpbhvfcdqvvx adams.freenode.net iinaj H :0 iinaj
+GOT WHO: [iinaj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid251194 gateway/web/irccloud.com/x-ucgmnamggweuuske adams.freenode.net sparky_005 H :0 Adil Sadik
+GOT WHO: [sparky_005]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid239753 gateway/web/irccloud.com/x-lifssmcozxmnusro adams.freenode.net vihta H :0 Old Nick
+GOT WHO: [vihta]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid27029 pdpc/supporter/active/psychoticboy sinisalo.freenode.net PsychoticBoy H :0 ???
+GOT WHO: [PsychoticBoy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid191196 gateway/web/irccloud.com/x-wcehahxxtxcthrjj adams.freenode.net gocevida G :0 GoceVida
+GOT WHO: [gocevida]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid266147 gateway/web/irccloud.com/x-lrcjssjnuavxzsam sinisalo.freenode.net atian G :0 atian
+GOT WHO: [atian]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid128688 gateway/web/irccloud.com/x-spgnkwboxmydaimn sinisalo.freenode.net berken H :0 berken
+GOT WHO: [berken]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid257090 gateway/web/irccloud.com/x-hhvwsfmcgbzlghty adams.freenode.net LD_ H :0 Laurent David
+GOT WHO: [LD_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin tykling znc.tyknet.dk adams.freenode.net Tykling H :0 tykling
+GOT WHO: [Tykling]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ben8472 62.113.255.21 livingstone.freenode.net ben8472 H :0 Got ZNC?
+GOT WHO: [ben8472]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~root 89-69-165-225.dynamic.chello.pl kornbluth.freenode.net d42 H :0 ```
+GOT WHO: [d42]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid294661 gateway/web/irccloud.com/x-nfohorxjzegltahn sinisalo.freenode.net skeees G :0 Jesse Cohen
+GOT WHO: [skeees]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~BlueMatt unaffiliated/bluematt hitchcock.freenode.net BlueMatt G :0 Matt Corallo
+GOT WHO: [BlueMatt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~celophi 50-201-100-130-static.hfc.comcastbusiness.net cherryh.freenode.net celophi H :0 celophi
+GOT WHO: [celophi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~BCBot 46.101.246.115 wilhelm.freenode.net BCBot H :0 None
+GOT WHO: [BCBot]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jouke a80-100-203-151.adsl.xs4all.nl rajaniemi.freenode.net jouke H :0 Jouke Hofman
+GOT WHO: [jouke]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Anduck unaffiliated/anduck barjavel.freenode.net Anduck H :0 anduck
+GOT WHO: [Anduck]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eblip unaffiliated/eblip tolkien.freenode.net eb0t H :0 eblip
+GOT WHO: [eb0t]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~CC66 unaffiliated/cc66 hitchcock.freenode.net CC66 H :0 CC66
+GOT WHO: [CC66]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~madjpm dedibox4.zigualh.com tolkien.freenode.net madjpm H :0 JP
+GOT WHO: [madjpm]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Winter unaffiliated/athallin hitchcock.freenode.net ATHallin H :0 Bridge
+GOT WHO: [ATHallin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Elite20578 gateway/shell/elitebnc/x-ladruyxagvehhwxt tolkien.freenode.net AndrewPRS H :0 Using EliteBNC, I'm part of the elite!
+GOT WHO: [AndrewPRS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Principal 167.81-167-9.customer.lyse.net hitchcock.freenode.net Principal8 H :0 realname
+GOT WHO: [Principal8]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~matador quebecois.smoothstreams.tv weber.freenode.net Matador_ H :0 Matador
+GOT WHO: [Matador_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~butterthe ec2-13-228-73-171.ap-southeast-1.compute.amazonaws.com tolkien.freenode.net butterthebuddha G :0 butterthebuddha
+GOT WHO: [butterthebuddha]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~l4z4i 31.24.146.220 hitchcock.freenode.net lazai G :0 anon
+GOT WHO: [lazai]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~whiteyone 149.56.87.162 tolkien.freenode.net whiteyonenh H :0 Got ZNC?
+GOT WHO: [whiteyonenh]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~musalbas algebra.musalbas.com karatkievich.freenode.net musalbas H :0 Mustafa Al-Bassam
+GOT WHO: [musalbas]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ziddey ool-182dd7c7.dyn.optonline.net tolkien.freenode.net ziddey H :0 ziddey
+GOT WHO: [ziddey]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mundus201 unaffiliated/mundus2018 tolkien.freenode.net mundus H :0 Oops
+GOT WHO: [mundus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~spydar007 unaffiliated/spydar007 sinisalo.freenode.net SpydarOO7 G :0 Spydar007
+GOT WHO: [SpydarOO7]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~john882 vmi111565.contaboserver.net hitchcock.freenode.net john883 H :0 john882
+GOT WHO: [john883]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~instagibb pool-100-15-128-78.washdc.fios.verizon.net karatkievich.freenode.net instagibbs_ G :0 NA
+GOT WHO: [instagibbs_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chainhead 108.61.159.53 karatkievich.freenode.net chainhead_ G :0 Chain Head
+GOT WHO: [chainhead_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin knocte booster.qnetp.net orwell.freenode.net knocte H :0 Andrés G. Aragoneses
+GOT WHO: [knocte]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dongcarl c-24-5-70-69.hsd1.ca.comcast.net karatkievich.freenode.net dongcarl G :0 Carl Dong
+GOT WHO: [dongcarl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Undefined unaffiliated/sentineo hitchcock.freenode.net Sentineo G :0 Mickey Mouse
+GOT WHO: [Sentineo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dust unaffiliated/dstzz hitchcock.freenode.net dstzz H :0 d
+GOT WHO: [dstzz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eyeoh 130.179.199.35.bc.googleusercontent.com karatkievich.freenode.net eyeoh G :0 me
+GOT WHO: [eyeoh]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~karl fp96f94c66.tkyc515.ap.nuro.jp tolkien.freenode.net kallewoof H :0 karl
+GOT WHO: [kallewoof]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ilbelkyr freenode/staff/atheme.ilbelkyr hitchcock.freenode.net ilbelkyr G :0 ilbelkyr
+GOT WHO: [ilbelkyr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin psy lounge.datux.nl verne.freenode.net Psy0rz_ H :0 mai
+GOT WHO: [Psy0rz_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin unlord mf4-xiph.osuosl.org karatkievich.freenode.net unlord H :0 unlord
+GOT WHO: [unlord]  decode failed
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cyrus unaffiliated/cyrusv sinisalo.freenode.net CyrusV G :0 cyrus
+GOT WHO: [CyrusV]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~evert 37-97-187-239.colo.transip.net tolkien.freenode.net evert_ H :0 Evert van Rossum
+GOT WHO: [evert_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~root 104.131.26.124 orwell.freenode.net roasbeef H :0 root
+GOT WHO: [roasbeef]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~johnny56 unaffiliated/johnny56 asimov.freenode.net johnny56 H :0 johnny56
+GOT WHO: [johnny56]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~methos 23.226.129.178 cherryh.freenode.net GGMethos H :0 methos
+GOT WHO: [GGMethos]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Yoda unaffiliated/yoda rajaniemi.freenode.net Yoda H :0 Yoda
+GOT WHO: [Yoda]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~immae immae.eu orwell.freenode.net immae H :0 immae
+GOT WHO: [immae]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bishop ns3007530.ip-151-80-44.eu hitchcock.freenode.net Henry151_ H :0 Bishop
+GOT WHO: [Henry151_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bishop ns3007530.ip-151-80-44.eu orwell.freenode.net Henry151 H :0 Bishop
+GOT WHO: [Henry151]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~haakonn pdpc/supporter/active/haakonn verne.freenode.net haakonn H :0 Haakon Nilsen
+GOT WHO: [haakonn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Htbrdd 107.170.38.20 wilhelm.freenode.net Htbrdd H :0 Got ZNC?
+GOT WHO: [Htbrdd]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~xit 162.212.153.178 wilhelm.freenode.net xit H :0 Xit
+GOT WHO: [xit]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hasha unaffiliated/hasha wilhelm.freenode.net hasha H :0 hasha
+GOT WHO: [hasha]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Polylith unaffiliated/polylith orwell.freenode.net Polylith H :0 Got ZNC?
+GOT WHO: [Polylith]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~seanBE unaffiliated/seanbe sinisalo.freenode.net seanBE G :0 Jane Doe
+GOT WHO: [seanBE]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jpaa 87.118.126.66 wilhelm.freenode.net jpaa H :0 Pandaen Hamselv
+GOT WHO: [jpaa]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~furqan ec2-52-52-2-179.us-west-1.compute.amazonaws.com weber.freenode.net furqan H :0 furqan
+GOT WHO: [furqan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sze unaffiliated/sze karatkievich.freenode.net sze H :0 sze
+GOT WHO: [sze]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~StatusD dsl-olubng12-54fa06-66.dhcp.inet.fi orwell.freenode.net StatusD H :0 StatusD
+GOT WHO: [StatusD]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~stian fsf/member/stiell orwell.freenode.net stiell H :0 Stian Ellingsen
+GOT WHO: [stiell]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tednobs unaffiliated/tednobs orwell.freenode.net tednobs H :0 tednobs
+GOT WHO: [tednobs]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sato_visi 172.86.120.144 orwell.freenode.net sato_vision H :0 Sopel: http://sopel.chat
+GOT WHO: [sato_vision]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~coyfish 79.237.196.104.bc.googleusercontent.com orwell.freenode.net coyfish H :0 coy
+GOT WHO: [coyfish]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Blank unaffiliated/mwass hitchcock.freenode.net mfwass G :0 Michael
+GOT WHO: [mfwass]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~raj unaffiliated/cypha adams.freenode.net raj H :0 raj
+GOT WHO: [raj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~SuperSeri unaffiliated/superseriouscat weber.freenode.net SuperSeriousCat H :0 Got ZNC?
+GOT WHO: [SuperSeriousCat]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid262473 gateway/web/irccloud.com/x-rpgmdxjxwvgdifke wolfe.freenode.net r3my G :0 remy
+GOT WHO: [r3my]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid261551 gateway/web/irccloud.com/x-bmlnhhbvinzpbmmn wolfe.freenode.net micalexander G :0 Michael Alexander
+GOT WHO: [micalexander]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid214210 gateway/web/irccloud.com/x-ggqgyokqmuqrziqc sinisalo.freenode.net ThisAsYou G :0 ThisAsYou
+GOT WHO: [ThisAsYou]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DTZUZU S0106bcd16584b0aa.vs.shawcable.net livingstone.freenode.net DTZUZU H :0 DTZUZU
+GOT WHO: [DTZUZU]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid161004 gateway/web/irccloud.com/x-qsqmlgyctnffygnq wolfe.freenode.net physpi H :0 R
+GOT WHO: [physpi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid151627 gateway/web/irccloud.com/x-wwzicbxenrlilheg kornbluth.freenode.net ChrisMorrisOrg H :0 Chris Morris
+GOT WHO: [ChrisMorrisOrg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Anarchic getlegit.eu barjavel.freenode.net Anarchic G :0 Robin
+GOT WHO: [Anarchic]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid136308 gateway/web/irccloud.com/x-deizxsntsxolqfcx adams.freenode.net eragmus G :0 eragmus
+GOT WHO: [eragmus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid111576 gateway/web/irccloud.com/x-saquprwdbqqgahbs wilhelm.freenode.net Kamuela G :0 Kamuela
+GOT WHO: [Kamuela]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid103986 gateway/web/irccloud.com/x-ofohcuubiqvhhioi wilhelm.freenode.net barq H :0 barq
+GOT WHO: [barq]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid103570 gateway/web/irccloud.com/x-uxpdmsncniplvyhf livingstone.freenode.net Bosma H :0 bosma
+GOT WHO: [Bosma]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~artemis3 190-37-30-10.dyn.dsl.cantv.net cherryh.freenode.net Artemis3 H :0 Artemis3
+GOT WHO: [Artemis3]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid52793 gateway/web/irccloud.com/x-mnbyxjmqpfksiviu karatkievich.freenode.net prettymuchbryce H :0 prettymuchbryce
+GOT WHO: [prettymuchbryce]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid43795 gateway/web/irccloud.com/x-enajkesoozoygfnl kornbluth.freenode.net mappum H :0 Matt
+GOT WHO: [mappum]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid28048 gateway/web/irccloud.com/x-xvrxsfjnymmbhnca kornbluth.freenode.net bitspill G :0 bitspill
+GOT WHO: [bitspill]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid21925 gateway/web/irccloud.com/x-rlvyympavvcecqpr livingstone.freenode.net ZeroNinja G :0 Pode falar no PVT que eu vou ver depois. Pode mand
+GOT WHO: [ZeroNinja]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid18594 gateway/web/irccloud.com/x-pvyoqitaqezkisxy adams.freenode.net bramp G :0 Andrew Brampton
+GOT WHO: [bramp]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid17131 gateway/web/irccloud.com/x-iwxbswqdxgdvgdut karatkievich.freenode.net lebster G :0 lebster
+GOT WHO: [lebster]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~koss koss.downlink.org tolkien.freenode.net koss H :0 koss
+GOT WHO: [koss]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~trip brigaid.xs4all.nl barjavel.freenode.net triptrap H :0 trap
+GOT WHO: [triptrap]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nobody gentoo/contributor/vquicksilver tolkien.freenode.net vquicksilver H :0 nobody
+GOT WHO: [vquicksilver]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~SwedFTP unaffiliated/swedftp sinisalo.freenode.net meZee G :0 SwedFTP
+GOT WHO: [meZee]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~someone rhea.freble.net rajaniemi.freenode.net Plnt H :0 Plnt
+GOT WHO: [Plnt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~CapnMorga e3-1270v2.ST-phx0.1.141.7.13.25.securedservers.com tolkien.freenode.net capn-morgan H :0 Capn Morgan
+GOT WHO: [capn-morgan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~seawalk 24.53.54.97 sinisalo.freenode.net skywalk H :0 na
+GOT WHO: [skywalk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fury pipe.bannerfree.net tolkien.freenode.net chen G :0 Chen
+GOT WHO: [chen]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Indicium unaffiliated/indicium hitchcock.freenode.net Indicium H :0 Indicium
+GOT WHO: [Indicium]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 5468F048.cm-12-1d.dynamic.ziggo.nl weber.freenode.net Frans-Willem G :0 Frans-Willem Hardijzer
+GOT WHO: [Frans-Willem]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~socrates1 li175-104.members.linode.com barjavel.freenode.net Guest95249 H :0 Andrew Miller
+GOT WHO: [Guest95249]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quietlyco unaffiliated/quietlyconfident hitchcock.freenode.net ethicsgradient H :0 quietlyconfident
+GOT WHO: [ethicsgradient]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~todd 2a01:4f8:211:2d4:8de6:a1ca:97d3:fce0 adams.freenode.net toddf H :0 Todd Fries
+GOT WHO: [toddf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~skza unaffiliated/skza tolkien.freenode.net skza H :0 skza
+GOT WHO: [skza]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sss sleepl.northnook.ca karatkievich.freenode.net Chex H :0 Chex UpNorth
+GOT WHO: [Chex]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin proscan gateway/shell/insomnia247/x-gooekpgrzglpwkuo rajaniemi.freenode.net hammond H :0 Unknown
+GOT WHO: [hammond]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin falcon ip248.ip-5-196-244.eu cherryh.freenode.net Falcon` H :0 Falcon
+GOT WHO: [Falcon`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~naomi cpe-74-75-6-125.maine.res.rr.com weber.freenode.net nyaomi H :0 naomi
+GOT WHO: [nyaomi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~loki tulip.lonesheep.net cherryh.freenode.net ChinnoDog H :0 Orion
+GOT WHO: [ChinnoDog]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~BabyJesus 71-7-150-35.eastlink.ca hitchcock.freenode.net BabyJesus666 H :0 Adam
+GOT WHO: [BabyJesus666]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lol wikipedia/nsh rajaniemi.freenode.net nsh H :0 Smedley Butler
+GOT WHO: [nsh]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mparisi pegasus.feitoza.com.br karatkievich.freenode.net mparisi H :0 Marcelo Parisi
+GOT WHO: [mparisi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Farshid gateway/shell/elitebnc/x-zikqlxoxziurbytn rajaniemi.freenode.net Farshid H :0 Farshid
+GOT WHO: [Farshid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Elite18355 gateway/shell/elitebnc/x-hasmqpadfrqexovp kornbluth.freenode.net deanman G :0 Dean Maniatis
+GOT WHO: [deanman]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/nwoki tolkien.freenode.net nwoki G :0 nwoki
+GOT WHO: [nwoki]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Apocalypt unaffiliated/apocalyptic kornbluth.freenode.net Apocalyptic H :0 Apocalyptic
+GOT WHO: [Apocalyptic]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nkuttler unaffiliated/nkuttler kornbluth.freenode.net nkuttler H :0 nkuttler
+GOT WHO: [nkuttler]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pfista 138.197.220.191 rajaniemi.freenode.net pfista H :0 The Lounge User
+GOT WHO: [pfista]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~orang 107.174.71.103 barjavel.freenode.net orang H :0 John
+GOT WHO: [orang]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pfallenop unaffiliated/contempt hitchcock.freenode.net pfallenop H :0 paralela
+GOT WHO: [pfallenop]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~psc static.72.113.9.176.clients.your-server.de weber.freenode.net cosmicc H :0 psc
+GOT WHO: [cosmicc]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin kronos kneegrow.org barjavel.freenode.net rickflare2 H :0 rickflare
+GOT WHO: [rickflare2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Fish cartwheel.9grid.fr wilhelm.freenode.net Fish G :0 Fish
+GOT WHO: [Fish]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sdaftuar unaffiliated/sdaftuar barjavel.freenode.net sdaftuar H :0 Suhas
+GOT WHO: [sdaftuar]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~malmen 91.121.192.112 hitchcock.freenode.net MalMen_ G :0 Got ZNC?
+GOT WHO: [MalMen_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Kostenko bl5-164-115.dsl.telepac.pt rajaniemi.freenode.net Kostenko H :0 Kostenko
+GOT WHO: [Kostenko]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jorijn 188.166.112.20 livingstone.freenode.net jorijn G :0 Jorijn
+GOT WHO: [jorijn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pilule unaffiliated/niko/bot/piqure cherryh.freenode.net piqure H :0 https://github.com/ncoevoet/ChanTracker
+GOT WHO: [piqure]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Arokh extknot.com adams.freenode.net Arokh H :0 Move Along
+GOT WHO: [Arokh]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~peter unaffiliated/kinlo rajaniemi.freenode.net kinlo G@ :0 Peter
+GOT WHO: [kinlo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ddoscomin unaffiliated/thetfef rajaniemi.freenode.net Nightmare H :0 Kim
+GOT WHO: [Nightmare]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~logstash 52.90.128.212 hitchcock.freenode.net mrBen2k2k2k H :0 logstash
+GOT WHO: [mrBen2k2k2k]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 2604:180:1:bc0::679c livingstone.freenode.net markasoftware H :0 Mark Polyakov
+GOT WHO: [markasoftware]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~attilio cm-84.210.20.218.getinternet.no kornbluth.freenode.net attilio G :0 Attzilio
+GOT WHO: [attilio]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin linuxdemon unaffiliated/linuxdaemon rajaniemi.freenode.net linuxdaemon G :0 linuxdaemon
+GOT WHO: [linuxdaemon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Caraway gateway/shell/firrre/x-liwbcezaiczotkxt sinisalo.freenode.net Caraway H :0 Caraway
+GOT WHO: [Caraway]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~P4rtyV4n 2a03:b0c0:1:d0::d0:b001 adams.freenode.net Monthrecg H :0 P4rtyV4n
+GOT WHO: [Monthrecg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dskull unaffiliated/daynaskully weber.freenode.net dskull H :0 dayna
+GOT WHO: [dskull]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin eth1 amg.speed.gq kornbluth.freenode.net eth2 H :0 ethernet
+GOT WHO: [eth2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin znc unaffiliated/slax0r adams.freenode.net slax0r H :0 Tomaz Lovrec
+GOT WHO: [slax0r]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin thev01d btc.mining.ga kornbluth.freenode.net TheV01d G :0 Realname
+GOT WHO: [TheV01d]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Kalimera 2a03:b0c0:1:d0::d0:b001 adams.freenode.net Kalimerab H :0 Kalimera
+GOT WHO: [Kalimerab]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pushpop 2a04:52c0:101:570::7b38 livingstone.freenode.net pushpop_ G :0 mts
+GOT WHO: [pushpop_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Xio 2a01:7e00::f03c:91ff:fe56:307e rajaniemi.freenode.net Xiodine_ G :0 James
+GOT WHO: [Xiodine_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Relicka minomino.org rajaniemi.freenode.net Relicka H :0 Relicka
+GOT WHO: [Relicka]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin xyz 192.99.249.194 cherryh.freenode.net PatBoy H :0 cryptoboy
+GOT WHO: [PatBoy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin L unaffiliated/linear tolkien.freenode.net linear H :0 L
+GOT WHO: [linear]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~masterpe 2a01:670:400::43 livingstone.freenode.net masterpe_ H :0 Michiel Piscaer
+GOT WHO: [masterpe_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin paranoid paranoid.pk livingstone.freenode.net paranoid H :0 e-tard
+GOT WHO: [paranoid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin maxalt unaffiliated/maxalt livingstone.freenode.net maxalt H :0 maxalt
+GOT WHO: [maxalt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid209527 gateway/web/irccloud.com/x-agcqpvsupmsdpjos rajaniemi.freenode.net Kazzy H :0 Kurt
+GOT WHO: [Kazzy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin gb 2600:3c03::f03c:91ff:fed5:ebbc kornbluth.freenode.net GoldenBear H :0 gb
+GOT WHO: [GoldenBear]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thefiamin static.27.108.76.144.clients.your-server.de kornbluth.freenode.net mr_zeus H :0 fiamingo
+GOT WHO: [mr_zeus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dogsrcool uwu.enterprises barjavel.freenode.net shibe_ H :0 dogs
+GOT WHO: [shibe_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin SiD RedPilled.Disciple.of.KeKistan.faith rajaniemi.freenode.net CryptoSiD H :0 CryptoSiD
+GOT WHO: [CryptoSiD]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~deetwelve unaffiliated/deetwelve kornbluth.freenode.net deetwelve H :0 deetwelve
+GOT WHO: [deetwelve]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~m0rv private.god.jp hitchcock.freenode.net aksz H :0 m0rv
+GOT WHO: [aksz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Ryan openvpn/user/RBecker barjavel.freenode.net RBecker H :0 Ryan B.
+GOT WHO: [RBecker]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~robogoat 163.172.136.88 adams.freenode.net robogoat H :0 robogoat
+GOT WHO: [robogoat]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~orionstei ec2-184-73-107-169.compute-1.amazonaws.com tolkien.freenode.net orionstein H :0 orionstein
+GOT WHO: [orionstein]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mrwooster S0106c056277881f9.vn.shawcable.net sinisalo.freenode.net mrwooster_ G :0 Got ZNC?
+GOT WHO: [mrwooster_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aib unaffiliated/aib42 sinisalo.freenode.net aib G :0 Mostly Harmless
+GOT WHO: [aib]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~href Sade.random.sh karatkievich.freenode.net href H :0 href
+GOT WHO: [href]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel li1895-239.members.linode.com hitchcock.freenode.net rahimnathwani H :0 Rahim Nathwani
+GOT WHO: [rahimnathwani]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cyberlard unaffiliated/jludwig adams.freenode.net cyberlard H :0 cyberlard
+GOT WHO: [cyberlard]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~samO unaffiliated/samo adams.freenode.net samO H :0 samO
+GOT WHO: [samO]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Hatter madteaparty.org barjavel.freenode.net Hatter H :0 Theophilus Carter
+GOT WHO: [Hatter]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Teraii 2001:470:caaf:1::93 rajaniemi.freenode.net Teraii H :0 teraii
+GOT WHO: [Teraii]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid41664 gateway/web/irccloud.com/x-hziekvhdgydfxlvf adams.freenode.net WKNiGHT H :0 White Knight
+GOT WHO: [WKNiGHT]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lavenders 2a03:b0c0:3:d0::3fbe:1001 livingstone.freenode.net lavenders H :0 lavenders
+GOT WHO: [lavenders]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bairyn unaffiliated/bob0 adams.freenode.net ByronJohnson H :0 Byron Johnson
+GOT WHO: [ByronJohnson]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~yoink unaffiliated/yoink verne.freenode.net yoink G :0 yoink
+GOT WHO: [yoink]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~CygniX opensuse/member/CygniX weber.freenode.net CygniX H :0 CygniX
+GOT WHO: [CygniX]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin BBSNJanito gateway/shell/panicbnc/x-ibjzojnipimzulja kornbluth.freenode.net Scally H :0 Mikey
+GOT WHO: [Scally]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Nsaiswatch gateway/shell/panicbnc/x-hjgmezoymoaupdjy wilhelm.freenode.net Klumben G :0 you
+GOT WHO: [Klumben]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lukasdboe 89.188.25.242 hitchcock.freenode.net lukasdboer H :0 realname
+GOT WHO: [lukasdboer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~supybot-l unaffiliated/luke-jr/bot/ljrbot kornbluth.freenode.net ljrbot H :0 Supybot 0.83.4.1
+GOT WHO: [ljrbot]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~meeeeeeh meeh.sigterm.no cherryh.freenode.net Meeh_ G :0 Mikal Villa
+GOT WHO: [Meeh_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Elite19663 gateway/shell/elitebnc/x-reqrvjmjdfwyoynx adams.freenode.net Death916 H :0 Using EliteBNC, I'm part of the elite!
+GOT WHO: [Death916]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ghormoon ghorland.net rajaniemi.freenode.net ghormoon H :0 Jiri 'Ghormoon' Novak
+GOT WHO: [ghormoon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~opdenkamp kodi/staff/dushmaniac tolkien.freenode.net opdenkamp H :0 odk
+GOT WHO: [opdenkamp]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~robzon 178235204182.warszawa.vectranet.pl verne.freenode.net robzon H :0 robzon
+GOT WHO: [robzon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel tesuji.pl adams.freenode.net comboy H :0 comboy
+GOT WHO: [comboy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/lauda barjavel.freenode.net Lauda G :0 Lauda
+GOT WHO: [Lauda]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~simba 45.77.108.203 barjavel.freenode.net simbalion H :0 simba
+GOT WHO: [simbalion]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ymgve 205.154.251.212.customer.cdi.no tolkien.freenode.net Ymgve H :0 ymgve.net
+GOT WHO: [Ymgve]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thehebs paleale.coelho.fi tolkien.freenode.net thehebs H :0 thehebs
+GOT WHO: [thehebs]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~michael unaffiliated/bhuddah barjavel.freenode.net bhuddah H :0 michael
+GOT WHO: [bhuddah]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~archlinux unaffiliated/archlinuxuser weber.freenode.net archLinuxUser H :0 jonathan
+GOT WHO: [archLinuxUser]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~altgribbl unaffiliated/rbecker/bot/altgribble rajaniemi.freenode.net altgribble H@ :0 Alternate Gribble Bot - Run by RBecker
+GOT WHO: [altgribble]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sdamashek tjctf/alum/sdamashek rajaniemi.freenode.net sdamashek H :0 Sam Damashek
+GOT WHO: [sdamashek]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pztrick 74.50.48.67 tolkien.freenode.net pztrick H :0 pztrick
+GOT WHO: [pztrick]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~s7r openvpn/user/s7r sinisalo.freenode.net s7r G :0 s7r
+GOT WHO: [s7r]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eenoch unaffiliated/eenoch cherryh.freenode.net eenoch G :0 eenoch
+GOT WHO: [eenoch]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~eculver 198.199.101.12 cherryh.freenode.net eculver H :0 Evan Culver
+GOT WHO: [eculver]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~wings unaffiliated/gnomethrower karatkievich.freenode.net gnomethrower G :0 Wings
+GOT WHO: [gnomethrower]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin hunner puppetlabs/ps/Hunner rajaniemi.freenode.net Hunner G :0 Hunter Haugen
+GOT WHO: [Hunner]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~meretrix unaffiliated/meretrix livingstone.freenode.net meretrix H :0 meretrix
+GOT WHO: [meretrix]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~phirenze dsl-sjkbng11-54fa8e-78.dhcp.inet.fi rajaniemi.freenode.net phirenze H :0 Unknown
+GOT WHO: [phirenze]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~torbor x081170.tudelft.net rajaniemi.freenode.net torbor G :0 Tor Bor
+GOT WHO: [torbor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~knight shredder.phunc.com karatkievich.freenode.net knight_ G :0 Alex Knight
+GOT WHO: [knight_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~captain42 unaffiliated/captain42 cherryh.freenode.net captain42 H :0 captain
+GOT WHO: [captain42]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Apoc4lypse gateway/shell/firrre/x-uleqfydkunlmkzqa sinisalo.freenode.net Apoc4lypse H :0 Apoc4lypse
+GOT WHO: [Apoc4lypse]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jiffe unaffiliated/jiffe tolkien.freenode.net jiffe H :0 jiffe
+GOT WHO: [jiffe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~henkie unaffiliated/s0lidus kornbluth.freenode.net s0lidus H :0 tap tap
+GOT WHO: [s0lidus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Caseous unaffiliated/caseous cherryh.freenode.net Caseous H :0 Caseous
+GOT WHO: [Caseous]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~breitenj bnc.plusnull.net adams.freenode.net breitenj- H :0 Julian Breiteneicher
+GOT WHO: [breitenj-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin quasselcor cicolina.org verne.freenode.net deafboy_ H :0 deafboy
+GOT WHO: [deafboy_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~helo unaffiliated/helo adams.freenode.net helo H :0 helo
+GOT WHO: [helo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin uid14316 wikia/Michagogo adams.freenode.net michagogo H :0 Micha
+GOT WHO: [michagogo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gribble unaffiliated/nanotube/bot/gribble barjavel.freenode.net gribble H@ :0 Supybot 0.83.4.1+gribble (2017-09-16T21:01:08-04:0
+GOT WHO: [gribble]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Hatsjoe unaffiliated/hatsjoe adams.freenode.net Hatsjoe G :0 Hatsjoe
+GOT WHO: [Hatsjoe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid289617 gateway/web/irccloud.com/x-eusrtzleqajmksli livingstone.freenode.net bobj G :0 bobj
+GOT WHO: [bobj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 122-57-100-132-vdsl.bb.spark.co.nz sinisalo.freenode.net lerc H :0 Neil Graham,,,
+GOT WHO: [lerc]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid137589 gateway/web/irccloud.com/x-lqsvvupmkepethok karatkievich.freenode.net olivierjanss H :0 Olivier Janssens
+GOT WHO: [olivierjanss]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Azelphur znc.azelphur.com wolfe.freenode.net Azelphur H :0 :: www.Azelphur.com ::
+GOT WHO: [Azelphur]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jonasschn unaffiliated/jonasschnelli sinisalo.freenode.net jonasschnelli G :0 Jonas Schnelli
+GOT WHO: [jonasschnelli]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tencevad unaffiliated/dspree wolfe.freenode.net tencevad H :0 tencevad
+GOT WHO: [tencevad]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin raz unaffiliated/raz wilhelm.freenode.net raz H :0 raz
+GOT WHO: [raz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~runter 0xff.sh wilhelm.freenode.net runter H :0 P
+GOT WHO: [runter]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 2607:5300:60:2391::1 wilhelm.freenode.net thrasibule_ H :0 Guillaume Horel
+GOT WHO: [thrasibule_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid46380 gateway/web/irccloud.com/x-bcwjimkpkykjthry sinisalo.freenode.net MalteJ H :0 Malte
+GOT WHO: [MalteJ]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid39955 gateway/web/irccloud.com/x-gixgjszkenviczhi wolfe.freenode.net elgrecoFL H :0 Elgreco
+GOT WHO: [elgrecoFL]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid38993 gateway/web/irccloud.com/x-nuqasulljalulxqv wolfe.freenode.net nejon H :0 nejon
+GOT WHO: [nejon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid29922 gateway/web/irccloud.com/x-yuegzssdtepyzpfa wilhelm.freenode.net profall H :0 profall
+GOT WHO: [profall]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid21167 gateway/web/irccloud.com/x-joaqwxnlzlolufob wolfe.freenode.net runeks G :0 Rune K. Svendsen
+GOT WHO: [runeks]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid13909 gateway/web/irccloud.com/x-hrytkxnnykdyjisf wolfe.freenode.net glowsticks G :0 Sean B.
+GOT WHO: [glowsticks]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid13530 gateway/web/irccloud.com/x-jpaxmpjrykszzqtp wilhelm.freenode.net Mutsuhito G :0 Mr X
+GOT WHO: [Mutsuhito]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~npanic mail.kmpt.nz adams.freenode.net npanic G :0 Acidhunter
+GOT WHO: [npanic]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~d10n unaffiliated/d10n hitchcock.freenode.net d10n H :0 d10n
+GOT WHO: [d10n]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~riba mujunyku.leporine.io tolkien.freenode.net ribasushi G :0 Peter Rabbitson
+GOT WHO: [ribasushi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~va lets.all.growbud.net tolkien.freenode.net Guest8931 H :0 fuck of ya pansy
+GOT WHO: [Guest8931]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pierre unaffiliated/pierre/x-8499154 tolkien.freenode.net pierre` H :0 Pierre loves you
+GOT WHO: [pierre`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~treyzania troy.tr3y.io tolkien.freenode.net treyzania G :0 treyzania
+GOT WHO: [treyzania]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~vinnix unaffiliated/vinnix tolkien.freenode.net vinnix H :0 @vischmidt || Vinícius A.B. Schmidt
+GOT WHO: [vinnix]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~alphawarr ec2-54-86-37-36.compute-1.amazonaws.com tolkien.freenode.net alphawarrior H :0 alphawarrior
+GOT WHO: [alphawarrior]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hello unaffiliated/hello- tolkien.freenode.net hello2 G :0 hello
+GOT WHO: [hello2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dgrove 138.197.139.20 tolkien.freenode.net dgrove2 H :0 dgrove
+GOT WHO: [dgrove2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fiatjaf 162.243.220.95 tolkien.freenode.net fiatjaf G :0 ~
+GOT WHO: [fiatjaf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~betawaffl h1.kdf.io asimov.freenode.net betawaffle G :0 Andrew Hodges
+GOT WHO: [betawaffle]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~redacted unaffiliated/digitalcold weber.freenode.net digitalcold H :0 redacted
+GOT WHO: [digitalcold]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~adam 115.96.198.104.bc.googleusercontent.com weber.freenode.net asoltys H :0 Unknown
+GOT WHO: [asoltys]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tun3 ec2-13-56-144-78.us-west-1.compute.amazonaws.com weber.freenode.net tun3 G :0 tun3
+GOT WHO: [tun3]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~phantomci 192.241.205.97 weber.freenode.net phantomcircuit G@ :0 phantomcircuit
+GOT WHO: [phantomcircuit]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lg unaffiliated/gnulinuxguy weber.freenode.net GNULinuxGuy H :0 LinuxGuy
+GOT WHO: [GNULinuxGuy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Thomas about/essy/indecisive/TD-Linux weber.freenode.net TD-Linux H :0 Got ZNC?
+GOT WHO: [TD-Linux]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Lightswor 107.170.253.193 weber.freenode.net Lightsword H :0 James
+GOT WHO: [Lightsword]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fcoffey cblmdm72-240-210-164.buckeyecom.net weber.freenode.net The_Miser H :0 Fred
+GOT WHO: [The_Miser]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~revstrang ec2-13-115-230-7.ap-northeast-1.compute.amazonaws.com weber.freenode.net rev_strangehope G :0 Got ZNC?
+GOT WHO: [rev_strangehope]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sturles unaffiliated/sturles weber.freenode.net sturles H :0 Sturle Sunde
+GOT WHO: [sturles]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kt unaffiliated/kt2 weber.freenode.net kt G :0 kt
+GOT WHO: [kt]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~CuriousEr unaffiliated/curiousernestbri weber.freenode.net CuriousErnestBro G :0 Zohaad
+GOT WHO: [CuriousErnestBro]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~vt240 static.174.24.9.5.clients.your-server.de weber.freenode.net vt240 H :0 vt240
+GOT WHO: [vt240]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~shakalaka ec2-52-52-27-0.us-west-1.compute.amazonaws.com weber.freenode.net shakalaka H :0 shakalaka
+GOT WHO: [shakalaka]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~diarpi ec2-35-157-38-10.eu-central-1.compute.amazonaws.com weber.freenode.net diarpi G :0 diarpi
+GOT WHO: [diarpi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thortron unaffiliated/thortron weber.freenode.net thortron H :0 Adam Thorsen
+GOT WHO: [thortron]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~kants unaffiliated/kants weber.freenode.net kants G :0 kants
+GOT WHO: [kants]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~axsuul 138.229.82.182 weber.freenode.net axsuul H :0 axsuul
+GOT WHO: [axsuul]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bitbee 138.197.209.248 weber.freenode.net bitbee H :0 bitbee
+GOT WHO: [bitbee]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~immediate 8.35.229.35.bc.googleusercontent.com cherryh.freenode.net immediateVeto H :0 immediateVeto
+GOT WHO: [immediateVeto]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid289137 gateway/web/irccloud.com/x-ejpatrmmmcliumsq wilhelm.freenode.net needmoney90 G :0 needmoney90
+GOT WHO: [needmoney90]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid289016 gateway/web/irccloud.com/x-ttdkwkamssqzwpzk sinisalo.freenode.net weinvantedzero H :0 ish gupta
+GOT WHO: [weinvantedzero]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~EPiSKiNG- unaffiliated/episking kornbluth.freenode.net EPiSKiNG- H :0 EPiSKiNG-
+GOT WHO: [EPiSKiNG-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bhez unaffiliated/drivelights kornbluth.freenode.net bhez_ G :0 bhez
+GOT WHO: [bhez_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid206086 gateway/web/irccloud.com/x-spzilbshlmftjunn wilhelm.freenode.net trotski2000 H :0 trotski2000
+GOT WHO: [trotski2000]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid171216 gateway/web/irccloud.com/x-vpiqpvhtnxycwuva kornbluth.freenode.net lolmac H :0 tom849238
+GOT WHO: [lolmac]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin KingSam15 gateway/web/irccloud.com/x-evkbpabcpmaqgjnz adams.freenode.net KingSam15 G :0 KingSam15
+GOT WHO: [KingSam15]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid154191 gateway/web/irccloud.com/x-lmhtckzhvtrlqqhj kornbluth.freenode.net m0rrisc G :0 M0rrisC
+GOT WHO: [m0rrisc]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~z3us plzhalp.us barjavel.freenode.net z3uS G :0 /dev/null
+GOT WHO: [z3uS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid128301 gateway/web/irccloud.com/x-dlnroulubcthchvd wilhelm.freenode.net graingert H :0 Thomas Grainger
+GOT WHO: [graingert]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid124863 gateway/web/irccloud.com/x-pirxgpftbyclaedx kornbluth.freenode.net braderhart G :0 braderhart
+GOT WHO: [braderhart]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid109325 gateway/web/irccloud.com/x-kjixrupeezxeeuaj livingstone.freenode.net scubacuda G :0 scubacuda
+GOT WHO: [scubacuda]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid105317 21/bitcoin/binns kornbluth.freenode.net wbnns H :0 Will Binns
+GOT WHO: [wbnns]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid15992 gateway/web/irccloud.com/x-wocjwnzopvdxlprk wilhelm.freenode.net idiotkenza G :0 aka "itoikenza"
+GOT WHO: [idiotkenza]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid15874 gateway/web/irccloud.com/x-mfqfbhpsrhcngfmf wilhelm.freenode.net chrisk1 H :0 Chris
+GOT WHO: [chrisk1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~MRW Michail1.com cherryh.freenode.net MRW H :0 M R W
+GOT WHO: [MRW]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid252266 gateway/web/irccloud.com/x-kmcoyrowjfycqmat adams.freenode.net buhrmi G :0 buhrmi
+GOT WHO: [buhrmi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid251744 gateway/web/irccloud.com/x-ubfkwfujjydqveru adams.freenode.net xttraces G :0 xttraces
+GOT WHO: [xttraces]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid251511 gateway/web/irccloud.com/x-pbheqrqdoqhhmfwt livingstone.freenode.net kaish G :0 kaish
+GOT WHO: [kaish]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid246387 gateway/web/irccloud.com/x-tkxbunwsywxlfuuc livingstone.freenode.net s0ph1a H :0 Sophia Epistemia
+GOT WHO: [s0ph1a]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid245104 gateway/web/irccloud.com/x-kqylyylkxpdwpuvr karatkievich.freenode.net usecrypto G :0 usecrypto
+GOT WHO: [usecrypto]  decode failed
+IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid238702 gateway/web/irccloud.com/x-fdinshbvrbigzrcw sinisalo.freenode.net alkyl H :0 alkyl
+GOT WHO: [alkyl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid231615 gateway/web/irccloud.com/x-znuxndsbzkfpzmda sinisalo.freenode.net sp0ck G :0 sp0ck
+GOT WHO: [sp0ck]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid229612 gateway/web/irccloud.com/x-qfppbinhtfctdwdz livingstone.freenode.net MarcoPolio H :0 Marco Polo
+GOT WHO: [MarcoPolio]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid223296 gateway/web/irccloud.com/x-lkmtieqbkjybzhna kornbluth.freenode.net Compy_ G :0 Jimmy Lipham
+GOT WHO: [Compy_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid210835 gateway/web/irccloud.com/x-zrwknqumqabzzocx kornbluth.freenode.net rodarmor H :0 rodarmor
+GOT WHO: [rodarmor]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~amDOGE static.165.139.130.94.clients.your-server.de wilhelm.freenode.net amDOGE G :0 Got ZNC?
+GOT WHO: [amDOGE]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid15465 gateway/web/irccloud.com/x-hdeuwxzbifeijsax livingstone.freenode.net RobertClarke G :0 Robert Clarke
+GOT WHO: [RobertClarke]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid12117 gateway/web/irccloud.com/x-dplpyrssuencgpov wilhelm.freenode.net HashNuke G :0 Akash
+GOT WHO: [HashNuke]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sergei-gl sgp.g7n.co barjavel.freenode.net SergeiG H :0 Sergei
+GOT WHO: [SergeiG]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jabular unaffiliated/jabular karatkievich.freenode.net jabular H :0 jabular
+GOT WHO: [jabular]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~reardenco hank.reardencode.com sinisalo.freenode.net reardencode H :0 Brandon Smith
+GOT WHO: [reardencode]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gernot unaffiliated/gernot barjavel.freenode.net gernot H :0 Gernot
+GOT WHO: [gernot]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mosh 2604:180:3:36b::1337 karatkievich.freenode.net mosh H :0 mosh
+GOT WHO: [mosh]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jemurray shell.jasonmurray.org kornbluth.freenode.net jemurray G :0 Jason Murray
+GOT WHO: [jemurray]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jacks 138.68.64.23 wilhelm.freenode.net alt0id H :0 Gay Nigger
+GOT WHO: [alt0id]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~riotz unaffiliated/riotz kornbluth.freenode.net riotz H :0 .
+GOT WHO: [riotz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lounge-us 45.76.7.254 hitchcock.freenode.net gash7472222 G :0 The Lounge User
+GOT WHO: [gash7472222]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin netsat 185.9.2.2 sinisalo.freenode.net barhom H :0 Ibrahim Tachijian
+GOT WHO: [barhom]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Vincian ec2-52-15-61-125.us-east-2.compute.amazonaws.com sinisalo.freenode.net vincian H :0 Unknown
+GOT WHO: [vincian]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~midnightm unaffiliated/midnightmagic sinisalo.freenode.net midnightmagic H@ :0 midnightmagic
+GOT WHO: [midnightmagic]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid8032 gateway/web/irccloud.com/x-peudfttkxmrirsrf sinisalo.freenode.net dna6a G :0 Dan J
+GOT WHO: [dna6a]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin viceroy gateway/shell/panicbnc/x-zzkmpwqmcbtvcfdf adams.freenode.net vicer0y G :0 vicer0y
+GOT WHO: [vicer0y]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~steven vps.weuste.club kornbluth.freenode.net stevenroose H :0 Steven Roose
+GOT WHO: [stevenroose]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin xD 62.210.192.145 hitchcock.freenode.net thom H :0 whatup
+GOT WHO: [thom]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~omnigoat 46.101.160.91 hitchcock.freenode.net omnigoat H :0 Maaaah
+GOT WHO: [omnigoat]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~valla nikam.ms.mff.cuni.cz cherryh.freenode.net hal9999 H :0 I am the HAL 9000
+GOT WHO: [hal9999]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~IPGlider 45.76.34.219 barjavel.freenode.net IPGlider G :0 Got ZNC?
+GOT WHO: [IPGlider]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~GenTarkin ec2-54-201-232-198.us-west-2.compute.amazonaws.com barjavel.freenode.net GenTarkin H :0 GenTarkin
+GOT WHO: [GenTarkin]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Whizz s-o-m-e.h-o-s-t.name livingstone.freenode.net WhizzWr G :0 Whizz
+GOT WHO: [WhizzWr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~David 198.143.2.130 barjavel.freenode.net heyden_web H :0 David S. Olive
+GOT WHO: [heyden_web]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid2 gateway/web/irccloud.com/x-nqibanmtyswpejgs kornbluth.freenode.net jwheare H :0 James Wheare
+GOT WHO: [jwheare]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid262031 gateway/web/irccloud.com/x-csekptafjwjbrowo adams.freenode.net argentum H :0 argentum
+GOT WHO: [argentum]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid165924 gateway/web/irccloud.com/x-hxxktjlsqocfygtg livingstone.freenode.net sunra G :0 sunra
+GOT WHO: [sunra]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid50355 gateway/web/irccloud.com/x-sswcuscklnpuudom kornbluth.freenode.net Protagonistics G :0 Meta Mesh COO
+GOT WHO: [Protagonistics]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid43070 gateway/web/irccloud.com/x-zoinqffnzxwojyzn livingstone.freenode.net dabura667 G :0 dabura667
+GOT WHO: [dabura667]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid32673 gateway/web/irccloud.com/x-hnkkfkxgjhrkgasw livingstone.freenode.net prosody H :0 .'rosody Vereable Context(°
+GOT WHO: [prosody]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid23919 gateway/web/irccloud.com/x-tpeiqzmtrsmjisui wolfe.freenode.net aksyn H :0 aksyn
+GOT WHO: [aksyn]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid14086 gateway/web/irccloud.com/x-vlgpspuswmjyltjz kornbluth.freenode.net ahmed_ H :0 ahmedbodi
+GOT WHO: [ahmed_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid12940 fsf/member/yena wolfe.freenode.net yena H :0 Secret v1
+GOT WHO: [yena]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid12683 gateway/web/irccloud.com/x-uilvqfttqlkcmgrm wolfe.freenode.net CornFly H :0 CornFly
+GOT WHO: [CornFly]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid10904 gateway/web/irccloud.com/x-zrrwxdtvnoguftos kornbluth.freenode.net ryang G :0 Ryan
+GOT WHO: [ryang]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid4580 wikia/JSharp adams.freenode.net JSharp G :0 Justin Lynn
+GOT WHO: [JSharp]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lordcow lordcow.org cherryh.freenode.net LordCow G :0 Gareth de Vaux
+GOT WHO: [LordCow]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin sid1568 gateway/web/irccloud.com/x-hteauafyqwvgmicv kornbluth.freenode.net yrashk H :0 Yurii Rashkovskii
+GOT WHO: [yrashk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~foo odisej.fmf.uni-lj.si cherryh.freenode.net azi` H :0 foo the man
+GOT WHO: [azi`]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~alaric 73.238.187.81.in-addr.arpa verne.freenode.net alaricsp H :0 Alaric Snell-Pym
+GOT WHO: [alaricsp]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~niko freenode/staff/ubuntu.member.niko hobana.freenode.net niko G :0 Nicolas Coevoet
+GOT WHO: [niko]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~piklu 199.187.121.86 cherryh.freenode.net piklu H :0 piklu
+GOT WHO: [piklu]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~user unaffiliated/kamyl cherryh.freenode.net kamyl H :0 real_name
+GOT WHO: [kamyl]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Elite18031 gateway/shell/elitebnc/x-fbkgxbmnvpgieizm adams.freenode.net synchronous H :0 Using EliteBNC, I'm part of the elite!
+GOT WHO: [synchronous]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~GAit unaffiliated/gait cherryh.freenode.net GAit H :0 GAit
+GOT WHO: [GAit]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pwg3n unaffiliated/loopback hitchcock.freenode.net loopback H :0 Unknown
+GOT WHO: [loopback]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ccook 208.66.192.142 adams.freenode.net ccook H :0 Chris Cook
+GOT WHO: [ccook]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~teeteewhy cloud.mmaton.com cherryh.freenode.net teeteewhy H :0 TTY
+GOT WHO: [teeteewhy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin clef warped.plugh.us hitchcock.freenode.net clef H :0 clef
+GOT WHO: [clef]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~connectio pdpc/supporter/active/lsa cherryh.freenode.net lsa H :0 connection1
+GOT WHO: [lsa]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 146.185.175.17 kornbluth.freenode.net Guest88481 H :0 Pucilowski
+GOT WHO: [Guest88481]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~roboo 95.85.33.84 kornbluth.freenode.net roboo G :0 roboo
+GOT WHO: [roboo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ubuntu ec2-54-193-61-240.us-west-1.compute.amazonaws.com wilhelm.freenode.net wrmsr H :0 Ubuntu
+GOT WHO: [wrmsr]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~David unaffiliated/davidfrombe livingstone.freenode.net DavidFromBE H :0 DavidFromBelgium
+GOT WHO: [DavidFromBE]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DrHaribo unaffiliated/drharibo livingstone.freenode.net DrHaribo H :0 DrHaribo
+GOT WHO: [DrHaribo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hirish hirish.cloudns.org kornbluth.freenode.net hirish H :0 Behemoth
+GOT WHO: [hirish]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ra4king unaffiliated/ra4king hitchcock.freenode.net ra4king H :0 Roi
+GOT WHO: [ra4king]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tuxcanfly 146.185.169.116 wolfe.freenode.net tuxcanfly H :0 Jakh Daven
+GOT WHO: [tuxcanfly]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin dave4925 gateway/shell/suchznc/x-aounpfuwuqyzqite kornbluth.freenode.net dave4925 H :0 dave
+GOT WHO: [dave4925]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Schrapnel unaffiliated/schrapnel adams.freenode.net Schrapnel G :0 Tvoja Mama
+GOT WHO: [Schrapnel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~shoar 185.16.174.179 livingstone.freenode.net m4rCsi_ H :0 m4rCsi
+GOT WHO: [m4rCsi_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~fractex cpe-2606-A000-111D-82E0-0-1742-CFC1-D17.dyn6.twc.com livingstone.freenode.net fractex H :0 fractex
+GOT WHO: [fractex]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rudiw 138.68.69.5 cherryh.freenode.net rudiw H :0 Rudi
+GOT WHO: [rudiw]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~epscy 176.126.241.239 cherryh.freenode.net epscy H :0 eps
+GOT WHO: [epscy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ali 11.0.196.35.bc.googleusercontent.com adams.freenode.net murr4y H :0 AK
+GOT WHO: [murr4y]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~johanf c-94fce253.036-1-6c756c12.cust.bredbandsbolaget.se livingstone.freenode.net bow H :0 g�sp
+GOT WHO: [bow]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ugli unaffiliated/tangelo karatkievich.freenode.net tangelo G :0 Skugens Herald
+GOT WHO: [tangelo]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~anonnumbe unaffiliated/anonnumberanon barjavel.freenode.net anonnumberanon G :0 Neal Rame
+GOT WHO: [anonnumberanon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Nebraskka 178.62.130.190 livingstone.freenode.net Nebraskka H :0 Nebraskka
+GOT WHO: [Nebraskka]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~gazab 188.226.163.51 kornbluth.freenode.net gazab H :0 gazab
+GOT WHO: [gazab]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mavrikant wikimedia/Mavrikant cherryh.freenode.net mavrikant G :0 M. Serdar Karaman
+GOT WHO: [mavrikant]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/qawap barjavel.freenode.net qawap G :0 qawap
+GOT WHO: [qawap]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 146.185.137.23 kornbluth.freenode.net oscar__ G :0 Oscar
+GOT WHO: [oscar__]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin latez insomnia.nyc adams.freenode.net latez H :0 Hope in reality is the worst of all evils.
+GOT WHO: [latez]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~avocado unaffiliated/avocado hitchcock.freenode.net avocado H :0 avocado
+GOT WHO: [avocado]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~deadbody nesemu2.com hitchcock.freenode.net Dead_Body H :0 Prokhor Zakharov
+GOT WHO: [Dead_Body]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cdx 188.68.56.84 barjavel.freenode.net cdx_ H :0 cdx
+GOT WHO: [cdx_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aryan 2400:6180:0:d0::56a2:1 kornbluth.freenode.net arunpyasi H :0 arunpyasi
+GOT WHO: [arunpyasi]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~illu unaffiliated/illu kornbluth.freenode.net illu H :0 i
+GOT WHO: [illu]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin brand0 lol.bxroberts.org barjavel.freenode.net brand0 H :0 4life
+GOT WHO: [brand0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ejsf aurora.hex6gon.com barjavel.freenode.net ejsf H :0 Erik
+GOT WHO: [ejsf]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin foobar exelion.net wolfe.freenode.net Diablo-D3 H :0 Patrick McFarland
+GOT WHO: [Diablo-D3]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mr_burdel unaffiliated/mr-burdell/x-7609603 karatkievich.freenode.net mr_burdell G :0 george
+GOT WHO: [mr_burdell]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~s4y pdpc/supporter/professional/sidney karatkievich.freenode.net s4y G :0 Sidney San Martín
+GOT WHO: [s4y]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Stianoph unaffiliated/stianoph livingstone.freenode.net Stianoph H :0 Stianoph
+GOT WHO: [Stianoph]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~DangerM unaffiliated/dangerm barjavel.freenode.net DangerM H :0 Danger Mouse
+GOT WHO: [DangerM]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lknfree u.internetz.me wolfe.freenode.net loeken H :0 shroudBNC User
+GOT WHO: [loeken]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin extnct unaffiliated/extnct livingstone.freenode.net extnct H :0 extnct
+GOT WHO: [extnct]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~andy-free andymillar.co.uk livingstone.freenode.net AndyMillar H :0 Andy Millar (FREENODE)
+GOT WHO: [AndyMillar]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~root 148.251.3.246 wolfe.freenode.net ccchris H :0 root
+GOT WHO: [ccchris]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin brie 163.172.96.206 livingstone.freenode.net zz_briemode G :0 Brie H
+GOT WHO: [zz_briemode]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin quasselcor monero.pro kornbluth.freenode.net netg G :0 x
+GOT WHO: [netg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~michael_m ec2-52-76-80-88.ap-southeast-1.compute.amazonaws.com cherryh.freenode.net michael_mbp G :0 John Dorian
+GOT WHO: [michael_mbp]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ShibaInu botters/ShibaInu kornbluth.freenode.net Shibe G :0 shibainu the programming doge
+GOT WHO: [Shibe]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~adam3us unaffiliated/adam3us kornbluth.freenode.net adam3us_ G :0 Adam
+GOT WHO: [adam3us_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~morcos 158.1.155.104.bc.googleusercontent.com wolfe.freenode.net morcos H :0 Alex Morcos
+GOT WHO: [morcos]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Elite21619 gateway/shell/elitebnc/x-knnuymfmxlzmwlzx barjavel.freenode.net switch- H :0 Switch
+GOT WHO: [switch-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~n1000 unaffiliated/n1000 barjavel.freenode.net n1000 H :0 n1000
+GOT WHO: [n1000]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~galaxy unaffiliated/iamgr00t wolfe.freenode.net iamgr00t G :0 gr00t
+GOT WHO: [iamgr00t]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~biufter unaffiliated/dooglus verne.freenode.net dooglus_ H :0 dooglus
+GOT WHO: [dooglus_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thib wikimedia/Thibaut120094 barjavel.freenode.net thib H :0 Thibaut
+GOT WHO: [thib]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~iwkse sinusia.com barjavel.freenode.net iwkse H :0 iwkse
+GOT WHO: [iwkse]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~syntax 50.62.31.0 wolfe.freenode.net [Syntax] H :0 syntax
+GOT WHO: [[Syntax]]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nikow 99.ip-217-182-76.eu livingstone.freenode.net nikow1 H :0 nikow
+GOT WHO: [nikow1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 19.ip-91-134-136.eu hitchcock.freenode.net lourfire H :0 Lour
+GOT WHO: [lourfire]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin N4Y nothing4you.w.tf-w.tf adams.freenode.net Nothing4You G :0 Richard Schwab
+GOT WHO: [Nothing4You]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin adm unaffiliated/kidon karatkievich.freenode.net kidon G :0 *Unknown*
+GOT WHO: [kidon]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin gears longjump.heliacal.net karatkievich.freenode.net gears H :0 Got ZNC?
+GOT WHO: [gears]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~xpitr ecdsa521.org livingstone.freenode.net xpitr_ H :0 xpitr
+GOT WHO: [xpitr_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 108.170.26.210 adams.freenode.net kha0Z_ H :0 khaos,,,
+GOT WHO: [kha0Z_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel geekbox.info adams.freenode.net schnibbler G :0 sven,,,
+GOT WHO: [schnibbler]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin singleride ny1.hashbang.sh hitchcock.freenode.net singlerider H :0 singlerider
+GOT WHO: [singlerider]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~cncr04s unaffiliated/cncr04s livingstone.freenode.net cncr04s H :0 cnc
+GOT WHO: [cncr04s]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~shit cyber.cyber.cyber.cyber.cyber.cyber.cyber.millerboss.com livingstone.freenode.net MillerBOSS H :0 Miller Boss
+GOT WHO: [MillerBOSS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~buzz unaffiliated/buzz karatkievich.freenode.net buZz H :0 buZz
+GOT WHO: [buZz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pocketpro unaffiliated/pocketprotector barjavel.freenode.net pocketprotector G :0 * I'm not to lame to read BitchX.doc *
+GOT WHO: [pocketprotector]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ballzak lax.calderwood.co.nz barjavel.freenode.net Ballzak_ H :0 Ballzak
+GOT WHO: [Ballzak_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bbradley 104.128.224.33 barjavel.freenode.net bbradley H :0 bbradley
+GOT WHO: [bbradley]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~RainMan28 unaffiliated/rainman28 livingstone.freenode.net RainMan28 H :0 RainMain28
+GOT WHO: [RainMan28]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~da2ce7 opentransactions/dev/da2ce7 cherryh.freenode.net da2ce7 G :0 Cameron Garnham
+GOT WHO: [da2ce7]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tonedef 104.236.96.151 cherryh.freenode.net _parts H :0 tonedef
+GOT WHO: [_parts]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Drajwer 46.101.119.200 barjavel.freenode.net Drajwer H :0 Abdul Wisimulacha
+GOT WHO: [Drajwer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin AEM gateway/shell/elitebnc/x-dsyhkobsdvgbacyw adams.freenode.net aem G :0 AEM
+GOT WHO: [aem]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tarnover 82.192.82.209 barjavel.freenode.net tarnover H :0 n.haflinger
+GOT WHO: [tarnover]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin segnior gateway/shell/xshellz/x-bjsxcaimezzcjwqi cherryh.freenode.net segnior H :0 segnior
+GOT WHO: [segnior]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ripazha unaffiliated/ripazha cherryh.freenode.net ripazha H :0 ripazha
+GOT WHO: [ripazha]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Unix-Dude 104.131.59.136 barjavel.freenode.net Unix-Dude H :0 unixdude
+GOT WHO: [Unix-Dude]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nanotube unaffiliated/nanotube wilhelm.freenode.net nanotube G :0 nanotube
+GOT WHO: [nanotube]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~alphaseg unaffiliated/alphaseg wilhelm.freenode.net alphaseg H :0 alpha seg
+GOT WHO: [alphaseg]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~felixdv kitsune.felixdv.com hitchcock.freenode.net felixdv H :0 Felix De Vliegher
+GOT WHO: [felixdv]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~lesderid anna.lesderid.net cherryh.freenode.net lesderid H :0 Les De Ridder
+GOT WHO: [lesderid]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~thomas kolsto.no hitchcock.freenode.net pmx H :0 Thomas Kolstø
+GOT WHO: [pmx]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~RAWR dogecoin/staff/raptorjesus livingstone.freenode.net RaptorJesus H :0 RaptorJesus
+GOT WHO: [RaptorJesus]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 138.197.219.129 hitchcock.freenode.net PricklyPear_ H :0 PricklyPear
+GOT WHO: [PricklyPear_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~nobody unaffiliated/s17 cherryh.freenode.net s17 G :0 siLLeH!!
+GOT WHO: [s17]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ec2-user ec2-52-77-237-181.ap-southeast-1.compute.amazonaws.com hitchcock.freenode.net ec2-user1 H :0 EC2 Default User
+GOT WHO: [ec2-user1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~disco tokyo.lotek.org hitchcock.freenode.net dizko H :0 disco
+GOT WHO: [dizko]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dlb76 unaffiliated/dlb76 adams.freenode.net dlb76 H :0 dlb76
+GOT WHO: [dlb76]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin stefika xshellz/founder/StephenS cherryh.freenode.net StephenS G :0 Powered by www.xShellz.com
+GOT WHO: [StephenS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~starsocce unaffiliated/starsoccer cherryh.freenode.net starsoccer H :0 starsoccer
+GOT WHO: [starsoccer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~bobey6 146.ip-192-99-69.net barjavel.freenode.net bobey6 G :0 bobey6
+GOT WHO: [bobey6]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~C2N14 wrongplanet/smuckerz barjavel.freenode.net Smuckerz H :0 Thomas M. Klapötke
+GOT WHO: [Smuckerz]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~solos 107.149.190.35.bc.googleusercontent.com barjavel.freenode.net solos H :0 solos
+GOT WHO: [solos]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~dennis dennis.backplanedns.org barjavel.freenode.net gimpyd H :0 dennis
+GOT WHO: [gimpyd]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin pawel cisco.family cherryh.freenode.net pawe1 H :0 Pawel
+GOT WHO: [pawe1]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~alquimist unaffiliated/kennosis wilhelm.freenode.net KennosiS H :0 .-.
+GOT WHO: [KennosiS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~roconda 58.ip-147-135-210.eu cherryh.freenode.net Roconda H :0 gg
+GOT WHO: [Roconda]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~aidan magda.makomk.com cherryh.freenode.net makomk H :0 Unknown
+GOT WHO: [makomk]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ensign 2001:41d0:8:d711::1 wilhelm.freenode.net ensign H :0 ensign
+GOT WHO: [ensign]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin foobar poulet.zoy.org barjavel.freenode.net sam H :0 Sam Hocevar
+GOT WHO: [sam]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rotarydia unaffiliated/rotarydialer barjavel.freenode.net rotarydialer H :0 Real Name
+GOT WHO: [rotarydialer]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~beanumsum pool-96-246-183-104.nycmny.fios.verizon.net wilhelm.freenode.net beanumsum G :0 dbe
+GOT WHO: [beanumsum]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sck n096h062.rs.de.inter.net barjavel.freenode.net dostoyevsky H :0 Trust my intuition!
+GOT WHO: [dostoyevsky]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~khalahan ns313829.ip-188-165-231.eu barjavel.freenode.net khalahan H :0 Gerald
+GOT WHO: [khalahan]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sherbet unaffiliated/sherbet cherryh.freenode.net sherbet G :0 sherbet
+GOT WHO: [sherbet]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel unaffiliated/cfields wilhelm.freenode.net cfields H :0 cory
+GOT WHO: [cfields]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~smiba woof.tech barjavel.freenode.net smiba H :0 Not Smiba
+GOT WHO: [smiba]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~luny unaffiliated/luny barjavel.freenode.net luny H :0 luny
+GOT WHO: [luny]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~noname static.74.88.9.5.clients.your-server.de cherryh.freenode.net AndyS2 H :0 noname
+GOT WHO: [AndyS2]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jscob culley.me cherryh.freenode.net jscob G :0 Jacob Culley
+GOT WHO: [jscob]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chjj unaffiliated/chjj cherryh.freenode.net chjj H :0 chjj
+GOT WHO: [chjj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pigeons androzani.sysevolve.com cherryh.freenode.net pigeons H :0 Unknown
+GOT WHO: [pigeons]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Arr0way unaffiliated/arr0way cherryh.freenode.net Arr0way G :0 Arr0way
+GOT WHO: [Arr0way]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~someguy unaffiliated/compgenius999 barjavel.freenode.net Someguy123 G :0 Got ZNC?
+GOT WHO: [Someguy123]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~yang freenode/sponsor/fsf.member.yang barjavel.freenode.net yang H :0 Jan Prunk
+GOT WHO: [yang]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~blazeme8 downtime.rocks cherryh.freenode.net blazeme8 H :0 blazeme8
+GOT WHO: [blazeme8]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~achow101 unaffiliated/achow101 karatkievich.freenode.net achow101 G :0 Andrew Chow
+GOT WHO: [achow101]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hein5991 unaffiliated/heinrich5991 cherryh.freenode.net heinrich5991 H :0 heinrich5991
+GOT WHO: [heinrich5991]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~Linkandze unaffiliated/linkandzelda cherryh.freenode.net Linkandzelda H :0 Linkandzelda
+GOT WHO: [Linkandzelda]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~sam phathack/sbingner karatkievich.freenode.net sbingner H :0 Sam Bingner
+GOT WHO: [sbingner]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin meshcollid gateway/shell/elitebnc/x-tzlqqngeabzyegyn wilhelm.freenode.net mesh_ G :0 MeshCollider
+GOT WHO: [mesh_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~xHire kos.paskuli.cz adams.freenode.net xHire G :0 xHire
+GOT WHO: [xHire]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~tms 2001:bc8:4700:2300::28:507 adams.freenode.net toksnes H :0 tms
+GOT WHO: [toksnes]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mapop mail.pinedesk.biz adams.freenode.net mapop- H :0 mapop
+GOT WHO: [mapop-]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~berndj mail.azna.co.za adams.freenode.net berndj H :0 Bernd Jendrissek
+GOT WHO: [berndj]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin raedchen gateway/shell/firrre/x-rypwnygdpljdlwwp adams.freenode.net raedchen H :0 raedchen
+GOT WHO: [raedchen]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~baraba unaffiliated/baraba adams.freenode.net baraba H :0 baraba
+GOT WHO: [baraba]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~mrhelpman i.am.mrhelpmann.xyz karatkievich.freenode.net mrhelpmann G :0 Mr Helpmann
+GOT WHO: [mrhelpmann]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin xyz my.penis.hurts.net adams.freenode.net Ripcord H :0 bowchickawowow
+GOT WHO: [Ripcord]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~pete ec2-52-5-185-120.compute-1.amazonaws.com adams.freenode.net petertodd G :0 Peter Todd
+GOT WHO: [petertodd]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~baikal 107.161.0.78 barjavel.freenode.net baikal G :0 Got ZNC?
+GOT WHO: [baikal]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~digisho 138.197.170.239 adams.freenode.net diginaut H :0 digisho
+GOT WHO: [diginaut]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~int0x27h unaffiliated/int0x27h adams.freenode.net int0x27h G :0 int0x27h
+GOT WHO: [int0x27h]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin Roedy unaffiliated/roedy cherryh.freenode.net Roedy G :0 Roedy
+GOT WHO: [Roedy]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~quassel 2001:41d0:1:472e:: karatkievich.freenode.net Taek H :0 Quassel IRC User
+GOT WHO: [Taek]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~irc mirk.info adams.freenode.net newbie-- H :0 Unknown
+GOT WHO: [newbie--]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~phlkd unaffiliated/philkode cherryh.freenode.net phkd H :0 noname
+GOT WHO: [phkd]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin rogers bling.bling.org barjavel.freenode.net rogers H :0 ZNC
+GOT WHO: [rogers]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~hkjn 207.109.198.35.bc.googleusercontent.com cherryh.freenode.net hkjn0 H :0 Henrik Jonsson
+GOT WHO: [hkjn0]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rahulsoib ec2-13-127-190-11.ap-south-1.compute.amazonaws.com cherryh.freenode.net RahulS H :0 Rahul Soibam
+GOT WHO: [RahulS]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~User 45.ip-158-69-201.net cherryh.freenode.net AdrianG_ H :0 Real Name.
+GOT WHO: [AdrianG_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~ivan meat.family barjavel.freenode.net ivan^ H :0 ivan
+GOT WHO: [ivan^]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jamie firestorm.moondimes.com livingstone.freenode.net jmcn_ H :0 jamie
+GOT WHO: [jmcn_]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~chatchat 197.1.197.35.bc.googleusercontent.com livingstone.freenode.net blueingr1ss H :0 chatchat20
+GOT WHO: [blueingr1ss]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~SN4T14 81.4.104.33 wilhelm.freenode.net SN4T14 H :0 SN4T14
+GOT WHO: [SN4T14]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~punch 8.12.28.87 livingstone.freenode.net delpa^ H :0 punch
+GOT WHO: [delpa^]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin nwonknu admin.kgb.mn cherryh.freenode.net nwonknu H :0 -
+GOT WHO: [nwonknu]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin mycroft abused.minithins.net livingstone.freenode.net mycroft H :0 Dance! Dancin' all of the night
+GOT WHO: [mycroft]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~jojkaart 104-250-47-212.rev.cloud.scaleway.com livingstone.freenode.net Eliel H :0 Joel Joonatan Kaartinen
+GOT WHO: [Eliel]  IRC :hitchcock.freenode.net 352 u4wmZ18CaoSDjFe #bitcoin ~rix unaffiliated/rix hitchcock.freenode.net Rix H :0 Rix
+GOT WHO: [Rix]  IRC :hitchcock.freenode.net 315 u4wmZ18CaoSDjFe #bitcoin :End of /WHO list.
+IRC :gribble!~gribble@unaffiliated/nanotube/bot/gribble PRIVMSG u4wmZ18CaoSDjFe :#bitcoin: Beware of scams! Scammers are sending users private messages with bitcoin-stealing malware and offers to trade. We are unable to stop them, so you must protect yourself. NEVER download or run programs from strangers! When in doubt, ask the ops.
+IRC :promag!~promag@bl22-247-244.dsl.telepac.pt QUIT :Remote host closed the connection
+DBFlush(false)
+StopNode()
+IRC socket closed
+DBFlush(true)
+Bitcoin exiting
