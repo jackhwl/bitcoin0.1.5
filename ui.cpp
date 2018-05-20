@@ -2692,12 +2692,13 @@ void CViewProductDialog::GetOrder(CWalletTx& wtx)
     wtx.SetNull();
     for (int i = 0; i < product.vOrderForm.size(); i++)
     {
-        string strValue;
+        string strValue, strLabel;
+		strLabel = m_staticTextLabel[i]->GetLabel();
         if (m_textCtrlField[i])
             strValue = m_textCtrlField[i]->GetValue().Trim();
         else
             strValue = m_choiceField[i]->GetStringSelection();
-        wtx.vOrderForm.push_back(make_pair(m_staticTextLabel[i]->GetLabel(), strValue));
+        wtx.vOrderForm.push_back(make_pair(strLabel, strValue));
     }
 }
 

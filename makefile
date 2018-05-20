@@ -77,7 +77,7 @@ obj/main.o: main.cpp		    $(HEADERS) net.h market.h sha.h
 
 obj/market.o: market.cpp	    $(HEADERS) market.h
 	g++ -c $(CFLAGS) -o $@ $<
-## error
+
 obj/ui.o: ui.cpp		    $(HEADERS) net.h uibase.h ui.h market.h
 	g++ -c $(CFLAGS) -o $@ $<
 
