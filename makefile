@@ -17,13 +17,37 @@ endif
 
 
 
-INCLUDEPATHS=-I"/boost" -I"/DB/build_unix" -I"/OpenSSL/include" -I"/wxWidgets/lib/vc_lib/mswd" -I"/wxWidgets/include"
-LIBPATHS=-L"/DB/build_unix" -L"/OpenSSL/out" -L"/wxWidgets/lib/gcc_lib"
-LIBS= \
+#INCLUDEPATHS=-I"/boost" -I"/DB/build_unix" -I"/OpenSSL/include" -I"/wxWidgets/lib/vc_lib/mswd" -I"/wxWidgets/include"
+#LIBPATHS=-L"/DB/build_unix" -L"/OpenSSL/out" -L"/wxWidgets/lib/gcc_lib"
+#LIBS= \
+# -l db_cxx \
+# -l eay32 \
+# -l wxmsw28$(D)_richtext -l wxmsw28$(D)_html -l wxmsw28$(D)_core -l wxbase28$(D) -l wxtiff$(D) -l wxjpeg$(D) -l wxpng$(D) -l wxzlib$(D) -l wxregex$(D) -l wxexpat$(D) \
+# -l kernel32 -l user32 -l gdi32 -l comdlg32 -l winspool -l winmm -l shell32 -l comctl32 -l ole32 -l oleaut32 -l uuid -l rpcrt4 -l advapi32 -l ws2_32
+
+INCLUDEPATHS=-I"../boost_1_35_0" \
+ -I"../db-4.8.30.NC/build_unix" \
+ -I"../openssl-1.0.2d/include" \
+ -I"../wxWidgets-2.8.12/lib/wx/include/msw-ansi-debug-static-2.8" \
+ -I"../wxWidgets-2.8.12/include"
+ LIBPATHS=-L"../db-4.8.30.NC/build_unix" \
+ -L"../openssl-1.0.2d" \
+ -L"../wxWidgets-2.8.12/lib"
+ LIBS= \
  -l db_cxx \
- -l eay32 \
- -l wxmsw28$(D)_richtext -l wxmsw28$(D)_html -l wxmsw28$(D)_core -l wxbase28$(D) -l wxtiff$(D) -l wxjpeg$(D) -l wxpng$(D) -l wxzlib$(D) -l wxregex$(D) -l wxexpat$(D) \
- -l kernel32 -l user32 -l gdi32 -l comdlg32 -l winspool -l winmm -l shell32 -l comctl32 -l ole32 -l oleaut32 -l uuid -l rpcrt4 -l advapi32 -l ws2_32
+ -l crypto \
+ -l wx_msw$(D)_richtext-2.8 \
+ -l wx_msw$(D)_html-2.8 \
+ -l wx_msw$(D)_core-2.8 \
+ -l wx_base$(D)-2.8 \
+ -l wxtiff$(D)-2.8 \
+ -l wxjpeg$(D)-2.8 \
+ -l wxpng$(D)-2.8 \
+ -l wxzlib$(D)-2.8 \
+ -l wxregex$(D)-2.8 \
+ -l wxexpat$(D)-2.8 \
+ -l kernel32 -l user32 -l gdi32 -l comdlg32 -l winspool -l winmm -l shell32 \
+ -l comctl32 -l ole32 -l oleaut32 -l uuid -l rpcrt4 -l advapi32 -l ws2_32
 WXDEFS=-DWIN32 -D__WXMSW__ -D_WINDOWS -DNOPCH
 CFLAGS=-mthreads -O0 -w -Wno-invalid-offsetof -Wformat $(DEBUGFLAGS) $(WXDEFS) $(INCLUDEPATHS)
 HEADERS=headers.h util.h main.h serialize.h uint256.h key.h bignum.h script.h db.h base58.h
@@ -53,7 +77,7 @@ obj/main.o: main.cpp		    $(HEADERS) net.h market.h sha.h
 
 obj/market.o: market.cpp	    $(HEADERS) market.h
 	g++ -c $(CFLAGS) -o $@ $<
-
+## error
 obj/ui.o: ui.cpp		    $(HEADERS) net.h uibase.h ui.h market.h
 	g++ -c $(CFLAGS) -o $@ $<
 
